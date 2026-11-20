@@ -18,7 +18,7 @@
 | **Badge** | **Kenzou Badge** ×4 + ใส่ **Gem Impulse** ในช่อง Gem | **Jotaro Badge ×4 ระดับ Legendary ★2 ขึ้นไป** (ปลด Judgment) | Jotaro Badge (แม้แค่ 1 ชิ้นก็ได้ Stun 20%) |
 | **ค่ารองบนของ** | ATK, **Crit Rate** (ดันให้ถึง ~40%), Crit Boost | + Basic Attack Strength, Attack Speed | |
 | **Spirit Power** | Damage Boost Rate, **Single Target DMG**, Ultimate DMG, **Basic Attack Strength**, **Melee DMG** | | |
-| **ดาว** | ⚠️ Ray แนะนำเป้า **"5★ S1"** (น่าจะหมายถึง 5 ดาว + Ability ระดับ S1) | ดาวยิ่งสูงยิ่งดี (ระดับ S8+ ทำให้ Punish Evil คูลดาวน์ 30 วิ ตาม WG:B) | |
+| **ดาว / Ability** | **★5 + Ability S1** (Ray) — F2P ขั้นต่ำ ★3 + S1 (jojogs) | ★6 = สถานะ +10%; Ability ระดับสูง (S8+ ทำให้ Punish Evil คูลดาวน์ 30 วิ ตาม WG:B) | |
 
 **หลักการเดียวที่ต้องจำ:** ดาเมจของ Jotaro **นับเป็น "โจมตีปกติ" (basic attack) เกือบทั้งหมด** ทั้ง Ultimate และสกิล Ora Ora Ora จึงต้องเลือกสถานะและเซตที่เสริมโจมตีปกติ ("basic attack damage is what he lives and dies by" — WG:B 31:06)
 
@@ -26,7 +26,7 @@
 
 ## 2. ชุดสกิล (ค่า Lv.1 → Lv.สูงสุด) 📖 Hideout
 
-Jotaro มี **Ultimate ให้เลือก 2 แบบ** ("ท่าทาง/stance" ตามที่ WG:B เรียก):
+Jotaro มี **Ultimate ให้เลือก 2 แบบ** ("ท่าทาง/stance" ตามที่ WG:B เรียก) — ตัวแรกได้ You've Angered Me; **Time Stop ปลดที่ Ability S1** (ตู้ Ability/ร้าน ไม่ใช่ตัวซ้ำ) · Passive ปลดตามดาว: ★2 Punish Evil, **★3 Settled Debt**, ★5 You're Not Running Away (📖 jojogs.dev banner guide):
 
 | สกิล | ประเภท | ผล |
 |---|---|---|
@@ -96,7 +96,7 @@ Jotaro มี **Ultimate ให้เลือก 2 แบบ** ("ท่าท�
 
 ## 6. ดาวและลำดับการลงทรัพยากร
 1. ดัน Character Level + Ability Level ให้ชนเพดานบัญชี (Ability Level = พลังของ Star Platinum)
-2. **Star-up**: ★2 ปลดสกิลที่ 3, ★3 ปลดสกิลที่ 4, ★5 ปลดสกิลที่ 5 (★4 = สถานะเฉย ๆ) — Ray แนะนำเป้าหมาย "5★ S1"; ⚠️ คำนี้ในคลิปไม่ได้อธิบายต่อ ตีความว่า 5 ดาว + Ability ระดับ S1 (ยังไม่ยืนยัน)
+2. **Star-up**: ★2 Punish Evil, **★3 Settled Debt (สำคัญสุด)**, ★5 You're Not Running Away (★4 = สถานะเฉย ๆ) + **Ability S1 เพื่อปลด Time Stop** → เป้า "5★ S1" ของ Ray (ยืนยันแล้วกับ jojogs.dev) — ดูตารางรวมทุกตัวที่ [star-priority.md](star-priority.md)
 3. ใส่ *Greatest High* 4 ชิ้นที่มี Crit Rate → อัป +4/+8/+12 ให้ได้ค่ารองดี
 4. Kenzou ×4 + Impulse → เมื่อมี Blueprint ครบ 4 ชิ้นค่อยย้ายไป Jotaro Badge แล้วดันให้ถึง Legendary ★2
 5. เปิด Spirit Board ที่ Account Lv.13
