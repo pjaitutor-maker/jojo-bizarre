@@ -3,6 +3,7 @@
 > รวบรวมเมื่อ: **20 พฤศจิกายน 2026** · เกมอัปเดตบ่อย ตรวจวันที่ของ tier list ทุกครั้ง
 > ระดับความน่าเชื่อถือ: 📖 = อ่านหน้าต้นฉบับเต็ม · 🔎 = สรุปจากผลค้นหา · ⚠️ = แหล่งขัดกัน
 > **YouTube:** ดึง transcript ไม่ได้ (YouTube ตอบ HTTP 429 ต่อการขอซับไตเติลจากเครื่องนี้ แม้อัปเดต yt-dlp และเว้นจังหวะแล้ว) — ได้เฉพาะ **ชื่อ/ช่อง/วันที่/ยอดวิว/บท (chapters)/description** ดู [youtube/index.md](youtube/index.md) → **บิลด์ในไฟล์นี้ไม่ได้มาจากเนื้อหาในคลิป** ห้ามอ้างว่าเป็นของคลิป
+> **บิลด์ละเอียดรายตัว:** [builds/jotaro.md](builds/jotaro.md) (มี transcript YouTube ที่อ่านผ่าน Chrome)
 > ไฟล์คู่กัน: [golden-spirit.md](golden-spirit.md) · [characters.md](characters.md) (สกิล+บิลด์ละเอียดทุกตัว) · [badges.md](badges.md)
 
 ---
@@ -47,7 +48,7 @@
 | **The Final Hamon** | HP +5% | HP +5%; ฮีลเป้า HP <50% ฟื้นเพิ่ม 20% | ฮีลเลอร์ (Giorno, Tonio) |
 | **Do Something** (Think of Something) | ATK +5% | ATK +5%; โจมตีปกติ 30% ทำให้สกิลถัดไปแรงขึ้น 20% (ไม่ซ้อน) | DPS สายสกิล (Caesar endgame, Diavolo) |
 | **Gang-Star** | — | เปิดการต่อสู้ด้วยบัฟ ATK/DEF | (ดูที่ Extreme Trial Lv.80+) |
-| **I Cast Aside My Humanness** | ⚠️ Wiki เก่า: HP +5% | ⚠️ Codex: สแตกลด DEF ศัตรูเมื่อโดน | Secco/ตัวอึด |
+| **I Cast Aside My Humanness** | HP +5% | ATK +5%; สกิล/โจมตีปกติลด DEF เป้า 6% นาน 6 วิ (ไม่ซ้อนกันทั้งทีม) — 📖 Hideout, สอดคล้อง Codex | Jotaro ต้นเกม, Secco |
 | **The Hymn of Bravery** | — | บัฟที่ให้มีโอกาสกระจายไปพันธมิตรใกล้ | Giorno |
 | **The Taste of a Lie** | — | debuff ที่ใส่มีโอกาสซ้ำ | Bucciarati, Joseph, Chaka |
 
