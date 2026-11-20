@@ -1,207 +1,205 @@
-# JoJo's Bizarre Adventure: Golden Spirit — ฐานข้อมูลรวม (Knowledge Base)
+# JoJo's Bizarre Adventure: Golden Spirit — ฐานข้อมูลรวม (Knowledge Base) v2
 
-> รวบรวมเมื่อ: 20 พฤศจิกายน 2026
-> ขอบเขต: ข้อมูลจากแหล่งภาษาอังกฤษ ญี่ปุ่น จีน เกาหลี และไทย (ผ่านการค้นเว็บ)
-> ข้อจำกัด: เครือข่ายของ session นี้บล็อกการเปิดหน้าเว็บโดยตรง ข้อมูลทั้งหมดจึงมาจาก **สรุปผลการค้นหา** ไม่ได้อ่านหน้าต้นฉบับเต็ม ๆ — จุดที่แหล่งข้อมูลขัดกันจะระบุไว้ด้วย ⚠️
+> รวบรวมเมื่อ: **20 พฤศจิกายน 2026** (เกมเปิดมาแล้ว ~14 สัปดาห์; เวอร์ชันที่ Hideout/Wiki อ้างถึง ณ ตอนนี้คือเนื้อหาถึงอีเวนต์ "Battle of Fate" 5 พ.ย.–3 ธ.ค. 2026)
+> **ระดับความน่าเชื่อถือ** — ทุกหัวข้อระบุว่า "📖 อ่านหน้าต้นฉบับ" หรือ "🔎 สรุปจากผลค้นหา" (ดู [sources.md](sources.md))
+> ลำดับความเชื่อเมื่อขัดกัน: แหล่งทางการ (KLab/ร้านแอป) > JoJo Wiki > ไกด์ใหม่ > ไกด์เก่า / ช่วง Closed Beta
+> ไฟล์คู่กัน: [build-guide.md](build-guide.md) · [characters.md](characters.md) · [badges.md](badges.md) · [youtube/index.md](youtube/index.md)
 
 ---
 
-## 1. ชื่อเกมในแต่ละภาษา
+## 1. ชื่อเกมในแต่ละภาษา 📖
 
 | ภาษา | ชื่อ | หมายเหตุ |
 |---|---|---|
-| อังกฤษ (ชื่อทางการปัจจุบัน) | **JoJo's Bizarre Adventure: Golden Spirit** | |
-| อังกฤษ (ชื่อบน App Store) | JoJo's Bizarre Adventure: GS | ผู้เผยแพร่บน App Store คือ HOOLAI GAME LIMITED |
-| อังกฤษ (ชื่อเดิม) | JoJo's Bizarre Adventure: Golden Anthem / Golden Hymn | ชื่อชั่วคราวช่วงปี 2020–2025 |
-| ญี่ปุ่น | ジョジョの奇妙な冒険 黄金讃歌 (Ōgon Sanka) | KLab ใช้ชื่อนี้ในข่าวประชาสัมพันธ์ |
-| จีนตัวย่อ | 乔乔的奇妙冒险：黄金赞歌 | บางแหล่งเขียน 《JOJO的奇妙冒险：黄金赞歌》 |
-| เกาหลี | 죠죠의 기묘한 모험: 골든 스피릿 | |
-| Package ID (Android) | `com.wanda.jojo.gp.global` | จากหน้า BlueStacks |
-
----
+| อังกฤษ (ทางการ) | **JoJo's Bizarre Adventure: Golden Spirit** | |
+| อังกฤษ (ชื่อบนร้านแอป) | JoJo's Bizarre Adventure: GS (App Store: "Cross-Gen JoJo RPG") | |
+| อังกฤษ (ชื่อเดิม) | Golden Anthem / Golden Hymn | ชื่อช่วง 2020–2025 |
+| ญี่ปุ่น | ジョジョの奇妙な冒険 黄金讃歌 (*Ōgon Sanka*) | ใช้ในข่าว KLab |
+| จีนตัวย่อ | 乔乔的奇妙冒险：黄金赞歌 | |
+| จีนตัวเต็ม | JOJO的奇妙冒險 黃金讚歌 | |
+| เกาหลี | 죠죠의 기묘한 모험: 골든 스피릿| ⚠️ ยังไม่พบหลักฐานว่ามีเซิร์ฟเวอร์เกาหลีโดยเฉพาะ (ดูข้อ 9) |
+| Android package | `com.wanda.jojo.gp.global` | |
+| ช่องทางทางการ | X `@jojogs_official` · เว็บ https://jjbags.wdyxgames.com · Facebook /jojogoldenspirit · YouTube @jojo_goldenspirit · IG jojo_goldenspirit_official · TikTok @jojo_goldenspirit · (จีน) TapTap/Bilibili/Weibo | จากหน้า Google Play + JoJo Wiki |
 
 ## 2. ข้อมูลพื้นฐาน
 
-| หัวข้อ | รายละเอียด |
-|---|---|
-| ประเภท | เกมมือถือแนว **3D strategy / auto-battler / collectible RPG (gacha)** — จีนเรียก "3D策略卡牌"; เกาหลีเรียก 전략 어드벤처 / 수집형 RPG; Game8 เรียก grid-based autobattler RPG |
-| ระบบราคา | Free-to-play + ซื้อไอเท็มในเกม |
-| แพลตฟอร์ม | iOS และ Android |
-| วันเปิดให้บริการ | **13 สิงหาคม 2026** |
-| ภูมิภาค | ทั่วโลก **ยกเว้น** ญี่ปุ่น, จีนแผ่นดินใหญ่, ฮ่องกง, ไต้หวัน, มาเก๊า |
-| ลิขสิทธิ์ | ได้รับอนุญาตอย่างเป็นทางการจากซีรีส์อนิเมะ JoJo (David Production) |
-| เนื้อหา | ตัวละครจากอนิเมะ Part 1–6 (Phantom Blood → Stone Ocean) ⚠️ บางแหล่งบอก "5 ซีซันแรกของอนิเมะ" ซึ่งนับ Part 1+2 เป็นซีซันเดียว จึงครอบคลุมถึง Part 6 เหมือนกัน |
-| ตัวละครตอนเปิด | 50 ตัว (บางแหล่ง: "มากกว่า 50") |
-| กราฟิก | โมเดล 3D + Live2D + มุมกล้องแบบภาพยนตร์ จำลองฉากดังจากอนิเมะ |
-| ภาษาในเกม | App Store แสดง **อังกฤษเท่านั้น**; ยังไม่พบข้อมูลยืนยันว่ารองรับภาษาไทย |
-| เรตอายุ (เกาหลี) | 12세 이용가 (12+) ตาม namu.wiki |
-| สกุลเงินในเกม | Astrogems (ใช้สุ่มตัวละคร), Coins |
-
----
+| หัวข้อ | รายละเอียด | ความน่าเชื่อถือ |
+|---|---|---|
+| ประเภท | 3D strategy auto-battler / collectible RPG (gacha) ฟรีเมียม | 📖 Wiki |
+| แพลตฟอร์ม | iOS (iOS 15+), Android; Google Play ระบุ "Android, Windows*" | 📖 ร้านแอป |
+| วันเปิดบริการ | **13 ส.ค. 2026** ทั่วโลก **ยกเว้น** ญี่ปุ่น / จีนแผ่นดินใหญ่ / ฮ่องกง / ไต้หวัน / มาเก๊า | 📖 KLab 13 ส.ค. |
+| เซิร์ฟเวอร์ | เลือกภูมิภาค **EU / NA / SEA** ตอนเข้าเกมครั้งแรก (ข้อมูลไม่แชร์ข้ามภูมิภาค) | 📖 jojogs.dev changelog v1.0.17 |
+| ตัวละครตอนเปิด | **50 ตัว** (CBT: Jonathan Joestar ถูกสลับเป็น Jotaro ในเวอร์ชันเปิดจริง) | 📖 Wiki |
+| ตัวละครที่เล่นได้ตอนนี้ | 53 หน้าตัวละครบน Hideout (รวม SR/SSR ที่เพิ่มหลังเปิด) + Joseph SSR (5 พ.ย.) — ดู [characters.md](characters.md) | 📖 |
+| ขนาด / เรต | iOS **1.9 GB**, อายุ 9+ (App Store, มี loot box + แชต); Google Play **16+** (ความรุนแรงปานกลาง, ภาพคล้ายการพนัน) | 📖 ร้านแอป |
+| ดาวน์โหลด/รีวิว | Google Play **1M+**, **4.3★ / 11.5K รีวิว** (20 พ.ย. 2026); App Store 4.0★ / 944 เรตติ้ง | 📖 |
+| ภาษาในเกม | App Store ระบุ **อังกฤษเท่านั้น**; ⚠️ สื่อไทย (แนวหน้า 15 ส.ค. 2569) ว่ามีภาษาไทย — ขัดกัน ดูข้อ 9 | 📖/🔎 |
+| ราคาเติมเงินเล็กสุด | 60 Astrogem = $0.99, 180 Astrogem = $2.99 (US App Store) | 📖 |
+| ลิขสิทธิ์ | ©Hirohiko Araki & LUCKY LAND COMMUNICATIONS/SHUEISHA, JOJO The Animation Project; ©KLabGames; ©WANDA CINEMAS GAMES | 📖 Google Play |
+| เนื้อหา | ตัวละครจากอนิเมะ Part 1–6 (Phantom Blood → Stone Ocean) เนื้อเรื่องหลักตอนนี้ = **Golden Wind (Part 5) 16 บท / 174 ด่านย่อย** | 📖 Hideout |
+| กราฟิก | โมเดล 3D + Live2D, กล้อง 360°, **ระบบสภาพอากาศ 18 แบบ** | 📖 |
 
 ## 3. บริษัทที่เกี่ยวข้อง
 
 | บริษัท | บทบาท |
 |---|---|
-| **KLab Inc.** (ญี่ปุ่น, รหัสหุ้น 3656) | ได้สิทธิ์จัดจำหน่ายทั่วโลกนอกญี่ปุ่น (ประกาศ 20 ม.ค. 2022); ร่วมพัฒนา; ตามรายงานปี 2026 KLab รับผิดชอบ "การหา IP และสนับสนุนการพัฒนา" ภายใต้ "โมเดลสนับสนุน" (支援モデル) |
-| **Wanda Cinemas Games** (互愛互動 / 北京互爱互动, เรียกอีกชื่อว่า Hoolai) | พาร์ทเนอร์ใหม่ตั้งแต่ปี 2024 — พัฒนาและเผยแพร่ ก่อตั้งปี 2011 เคยทำเกมจากอนิเมะ เช่น 《圣斗士星矢：正义传说》 (Saint Seiya: Legend of Justice) |
-| **HOOLAI GAME LIMITED** | ชื่อผู้เผยแพร่บน App Store |
-| **Shengqu Games** (盛趣游戏) | ผู้ร่วมพัฒนา/ผู้เผยแพร่รายแรก (ยุค Golden Anthem 2020–2022) — ถอนตัว |
+| **KLab Inc.** (ญี่ปุ่น, TSE Prime 3656; CEO 真田哲弥) | รับสิทธิ์ IP จากคณะกรรมการผลิตอนิเมะ → พัฒนา/จัดจำหน่ายร่วมกับพันธมิตรต่างประเทศ ภายใต้ "โมเดลสนับสนุนการพัฒนาเกมต่างประเทศ" (海外向けゲーム開発支援モデル) 📖 |
+| **Wanda Cinemas Games** (互愛互動(北京)科技有限公司, ตัวแทน 张宇) | พัฒนาร่วม + ผู้เผยแพร่; ก่อตั้ง ก.ค. 2011; เป็นบริษัทลูก Wanda Pictures เต็มตัวตั้งแต่ 2016; ผลงาน เช่น 圣斗士星矢：正义传说, 转生史莱姆：魔物之王 📖 KLab |
+| **HOOLAI GAME LIMITED** | ชื่อผู้ขาย/ลิขสิทธิ์บน App Store 📖 |
+| **Shengqu Games (盛趣)** | ผู้เผยแพร่รายแรกในจีน (ยุค Golden Anthem) — ถอนตัว 🔎 |
+| ผู้ให้ลิขสิทธิ์ | คณะกรรมการผลิตอนิเมะ JoJo (David Production) / Shueisha 📖 |
 
-⚠️ ชื่อผู้เผยแพร่ไม่ตรงกันระหว่างแหล่ง: Google Play = Wanda Cinemas Games, App Store = HOOLAI GAME LIMITED, บางบทความเขียน "Wonder Cinema Games" และบทสรุปงบการเงินฉบับหนึ่งเขียนผิดเป็น Square Enix
+⚠️ ชื่อผู้เผยแพร่ต่างกันตามร้านแอป (Google Play = Wanda Cinemas Games; App Store = HOOLAI) — เป็นนิติบุคคลในเครือเดียวกัน ไม่ใช่ข้อมูลขัดกันจริง
 
----
+## 4. ไทม์ไลน์
 
-## 4. ไทม์ไลน์การพัฒนา (เรียงตามเวลา)
+| วันที่ | เหตุการณ์ | แหล่ง |
+|---|---|---|
+| 25 ธ.ค. 2020 | ประกาศในจีนชื่อ Golden Anthem; ออกบูธ COMICUP27 (เซี่ยงไฮ้ 1–2 ม.ค. 2021) | 📖 Wiki |
+| 20 ม.ค. 2022 | KLab ได้สิทธิ์จัดจำหน่ายทั่วโลกยกเว้นญี่ปุ่น | 📖 Wiki / ANN |
+| 2022–2024 | การพัฒนาสะดุดหลังผู้เผยแพร่รายแรกถอน (ไม่มีคำอธิบายสาธารณะ) | 🔎 |
+| 19 มิ.ย. 2024 | KLab รีสตาร์ทโปรเจกต์กับ Wanda Cinemas Games | 🔎 |
+| 29 ธ.ค. 2025 | เทรลเลอร์ทางการแรก + แคมเปญ "รวบรวมไอเดีย" (ถึง 2 ก.พ. 2026) | 📖 Wiki Events |
+| 31 ธ.ค. 2025 – 31 ม.ค. 2026 | แคมเปญควิซ "Trial of Fate"; รับสมัคร CBT จีน (ถึง 16 ม.ค.) | 📖 |
+| 29–31 ม.ค. 2026 | CBT "Trial of Courage" — Android, ลบข้อมูลหลังจบ | 📖 |
+| 8 พ.ค. 2026 | เปิดตัวเวอร์ชันอังกฤษ + เปิดรับสมัคร CBT ตะวันตก | 📖 |
+| 15–29 พ.ค. 2026 | CBT อังกฤษ/ฝรั่งเศส (US/UK/CA/FR) — แคมเปญ "The Beginning of Fate" ตัวเด่น Jonathan | 📖 |
+| 18 พ.ค. 2026 | App Store v1.0 (ประวัติเวอร์ชัน) | 📖 |
+| 21 พ.ค. 2026 | เปิดลงทะเบียนล่วงหน้า (KLab แจ้ง 26 พ.ค.) | 📖 KLab |
+| 1 มิ.ย. – 13 ส.ค. 2026 | Pre-register ผ่านร้านแอป; ครบทุกเป้าภายใน **30 ก.ค.** (2M = SR Joseph แจก) | 📖 Wiki |
+| 7 ส.ค. 2026 | KLab ประกาศวันเปิด 13 ส.ค.; ลงทะเบียนล่วงหน้า **>2 ล้าน** | 📖 KLab |
+| **13 ส.ค. 2026** | **เปิดบริการทั่วโลก** (v1.0.17) + แคมเปญ "Fated Expedition" ตัวเด่น Jotaro | 📖 |
+| 10 ก.ย. – 7 ต.ค. | "Noble Soul" ตัวเด่น **Iggy** | 📖 Wiki Events |
+| 8 ต.ค. – 4 พ.ย. | "Solitary Hierophant" ตัวเด่น **Kakyoin** | 📖 |
+| 21 ต.ค. | แพตช์: กรอบอวตารเคลื่อนไหว, craft badge ทีละหลายอัน, Steel Ball Run รอบ 2 | 🔎 |
+| 27 ต.ค. – 3 พ.ย. | Blaze Onslaught (ลิมิเต็ด) | 🔎 |
+| 5 พ.ย. – 3 ธ.ค. | "Battle of Fate" ตัวเด่น **Joseph (Battle Tendency, SSR)** | 📖 Wiki / goldenspiritguides |
+| 25 ก.ย. 2026 | (นอกเกม) Netflix ฉาย Steel Ball Run STAGE 2&3 | 📖 KLab |
 
-| วันที่ | เหตุการณ์ |
-|---|---|
-| **25 ธ.ค. 2020** | ประกาศครั้งแรกในจีนในชื่อ *Golden Anthem* (乔乔的奇妙冒险 黄金赞歌) เปิดเว็บไซต์แนวคิด (概念站) และเว็บทีเซอร์ภาษาจีนตัวย่อ/ตัวเต็ม; ประกาศว่าจะออกบูธที่งาน COMICUP27 (เซี่ยงไฮ้, ม.ค. 2021) |
-| **20 ม.ค. 2022** | KLab ประกาศได้สิทธิ์จัดจำหน่ายทั่วโลก ยกเว้นญี่ปุ่น |
-| ก่อน **6 ต.ค. 2022** | เกมถูกลบออกจากเว็บไซต์ของ Shengqu Games |
-| 2022–2024 | การพัฒนาหยุดชะงักเพราะ "ปัญหากับผู้เผยแพร่รายแรก" (ไม่มีคำอธิบายสาธารณะ) |
-| **19 มิ.ย. 2024** | KLab ประกาศรีสตาร์ทโปรเจกต์ ร่วมกับพาร์ทเนอร์ใหม่ Wanda Cinemas Games (互愛互動) |
-| **29 ธ.ค. 2025** | ปล่อยตัวอย่างเกม (trailer) ทางการตัวแรก — ภาพเกมเพลย์จริง 3D |
-| 31 ธ.ค. 2025 – 16 ม.ค. 2026 | รับสมัคร closed beta ผ่านแบบสอบถาม |
-| 27 ม.ค. 2026 | แจกสิทธิ์ทดสอบ |
-| **29–31 ม.ค. 2026** | Closed beta รอบแรก "Trial of Courage" — Android เท่านั้น ขนาดเล็ก ลบข้อมูลหลังจบ (ยังไม่พบข้อมูลภูมิภาค) |
-| **8 พ.ค. 2026** | เปิดตัวเวอร์ชันภาษาอังกฤษอย่างเป็นทางการ + เปิดรับสมัคร Western CBT |
-| **15–29 พ.ค. 2026** | CBT ฝั่งตะวันตก — Android, สหรัฐฯ / สหราชอาณาจักร / แคนาดา / ฝรั่งเศส, ลบข้อมูลหลังจบ |
-| **26 พ.ค. 2026** | KLab ประกาศเปิดลงทะเบียนล่วงหน้า (事前登録) |
-| ส.ค. 2026 (ช่วงงบ Q2) | ประธาน KLab (真田哲弥) เผยว่ายอดลงทะเบียนล่วงหน้าเกิน **1.5 ล้าน** ("とんでもない" = เหลือเชื่อ) |
-| **7 ส.ค. 2026** | KLab ประกาศวันเปิดบริการ 13 ส.ค.; ยอดลงทะเบียนล่วงหน้าเกิน **2 ล้าน** |
-| **13 ส.ค. 2026** | เปิดให้บริการทั่วโลก (ยกเว้น JP/CN/HK/TW/MO) — เป็นเกมมือถือ JoJo เกมแรกที่วางจำหน่ายอย่างเป็นทางการนอกญี่ปุ่น |
-
----
-
-## 5. ระบบเกมเพลย์
+## 5. ระบบเกมเพลย์ (📖 JoJo Wiki — อ่านหน้าต้นฉบับ; ส่วนที่ Hideout ต่างจะติด ⚠️)
 
 ### 5.1 การต่อสู้
-- **Auto-battle** บน **กระดานจัดทัพ 11 ช่อง** (formation grid) — จัดตำแหน่งก่อนเริ่ม
-- ก่อนสู้ เกมแสดงเส้นทาง: ลูกศรแดง = ศัตรูระยะประชิดที่จะเข้ามา, เส้นประ = ศัตรูระยะไกล
-- **Energy / Ultimate**: เมื่อแถบพลังเต็ม แตะรูปตัวละครเพื่อใช้ท่าไม้ตาย (Ultimate) — เช่น Jotaro ใช้ 1,000 energy และเริ่มการต่อสู้ด้วย 700
-- **Rush**: เมื่อใช้ Ultimate ของตัวละคร **3 ตัวที่ต่างสไตล์กัน** → เข้าสถานะ Rush ได้ **โบนัสดาเมจ 25%** และฟื้น energy เล็กน้อย ⚠️ แหล่งอธิบายเงื่อนไขต่างกันเล็กน้อย
-- **6 สไตล์การต่อสู้ (Fighting Styles / Class)**: Defense, Assault, Agility, Ranged, Special, Support — แต่ละสไตล์มี passive ของตัวเอง
-- **กลไกที่ยึดตามต้นฉบับ** (จากข่าวจีน): ท่าโจมตีครั้งที่ 4 ของ Mista มีโอกาสโดนลดลง (อ้างอิงความกลัวเลข 4), Diavolo เข้าสถานะซ่อนตัวตอนเริ่มการต่อสู้ได้
-- มีระบบ **สภาพอากาศ** ที่ส่งผลต่อการต่อสู้
-- ไม่มีค่าสถานะ "Stand Power" แยกเป็นตัวเลขชัดเจน
+- **Energy**: สูงสุด 1,000/ตัว; เพิ่มจากโจมตีปกติ, สกิล, โดนดาเมจ → ครบ 1,000 ใช้ Ultimate (กดเองหรือออโต้) สกิล/อัลติมีคูลดาวน์เรียลไทม์ (ไม่ผูก Attack Speed)
+- **Rush**: Ultimate ของตัวละคร **3 ตัวสไตล์ต่างกัน** ในช่วงเวลาสั้น ๆ → ทั้งทีม **+25% Final DMG นาน 10 วิ** + ฟื้น energy เล็กน้อย; ตัวจับเวลารีเซ็ตทุกครั้งที่เกิด Rush จึงวนซ้ำได้
+- **Buff/Debuff**: Attack Up/Defense Down/Crit Down/Effect Hit Down ฯลฯ = **5% ต่อสแตก สูงสุด 10 สแตก (50%)**; DoT (Burn/Frostbite) = 15% ของ Attack/วิ/สแตก สูงสุด 10 สแตก 10 วิ
+- **CC**: แบบแรง (Stun, Frozen, Confused, Suppressed — Suppressed ล้างไม่ได้) / แบบอ่อน (Immobilized, Disarmed, Silenced); โอกาสติดขึ้นกับ Effect Hit vs Effect Res
+- **คริติคอล**: ฐาน ×2.0; Crit Boost เพิ่มได้สูงสุด +90% → **×2.9**; Crit Res ของเป้าลด Crit Rate ของผู้โจมตี
+- **สภาพอากาศ 18 แบบ**: เช่น Breeze/Gale, Sandstorm, Fog (ลดระยะ/ดาเมจสายไกล; ระยะ >6 ช่อง → 3), Acid Rain, Thunderstorm (ทุก 10 วิ ดาเมจ 20% Max HP + Stun 3 วิ), Blizzard (ลด AS + ดาเมจตอนเดิน), Scorch — บางตัวใช้ประโยชน์ได้ (Squalo ระยะเพิ่มตอนฝน, Narancia ไม่โดนผลหมอก/พายุทราย, Prosciutto ถูกกดตอน Blizzard)
+- **กลไกจากต้นฉบับ**: Mista ยิงครั้งที่ 4 โดนลด Hit Rate; Diavolo เริ่มการต่อสู้แบบ Stealth 10 วิ; Cioccolata (ราขึ้น CC'd enemy 30%) + Secco (พื้นโคลน Grounded 6 วิ ในรัศมี 2 ช่อง); Hamon user ดาเมจเพิ่มต่อ Vampire/Zombie; Anjuro เพิ่ม Dampness คู่ F.F. Micro Plankton
 
-### 5.2 โหมดและการปลดล็อก (ตาม Account Level)
-- **Lv.6**: Bloody Battle, Guild, Collectibles, Dramatic Scenes, Arena (PvP — ทีมป้องกันใช้จาก Team Builder)
-- **Lv.7**: Guild Boss (raid ร่วมกัน), Uncharted Journey
-- **Story Mode**: ตามเนื้อเรื่องอนิเมะ; ด่านแรก ๆ เป็น tutorial ปลดล็อกโหมดต่าง ๆ และแจกเงินสุ่มกับตัวละครเริ่มต้นจำนวนมาก; เนื้อหาช่วงทดสอบเน้นภาค Golden Wind
-- โซเชียล: Guild, เพื่อน, ภารกิจร่วม, ล่าบอส
-- การพัฒนาตัวละคร: เลเวล, อัปสกิล, อัปอุปกรณ์, ตราสัญลักษณ์ (badge crafting)
+### 5.2 6 สไตล์การต่อสู้ ⚠️ ตัวเลขขัดกันระหว่างแหล่ง
+| สไตล์ | JoJo Wiki (📖 เชื่อมากกว่า) | Hideout Gacha (📖) |
+|---|---|---|
+| Defense | ลดดาเมจ **30% ใน 5 วิแรก** | ลดดาเมจ **20% ใน 15 วิแรก** |
+| Assault | HP <40% โจมตีปกติฟื้น 150% ของ ATK (ทุก 10 วิ) | เหมือนกัน |
+| Agility | เล็งศัตรูตำแหน่งตรงข้าม; +5% Crit เมื่อไม่ถูกเล็ง; HP <60% โดนตี → Stealth 3 วิ (CD 10 วิ) | เหมือนกัน |
+| Ranged | ดาเมจ **+5% ต่อช่องระยะห่าง** | **+4% ต่อช่อง** |
+| Special | โจมตีปกติฟื้น 20% Max Energy (ทุก 10 วิ) | เหมือนกัน |
+| Support | พันธมิตร HP <30% ฟื้นทันที 10% Max HP (ทุก 10 วิ) | เหมือนกัน |
+เหตุผลที่เชื่อ Wiki: อ่านจากหน้าที่อัปเดตกว่าและมีโครงสร้างอ้างอิง; ส่วนต่างอาจเกิดจากแพตช์ → **ตรวจในเกมก่อนตัดสินใจจริง**
 
-### 5.3 Gacha (Recruit)
-- อัตรา (ตาม JoJo Wiki): **SSR 2.00% / SR 20.00% / R 78.00%** — อัตรา SSR ที่รวมการการันตีแล้ว = **2.85%**
-- **Pity**: การันตี SSR สุ่ม **ทุก 60 ครั้ง** ในตู้ถาวร ⚠️ ไกด์บางแห่งบอกว่าตู้ featured (rate-up) ไม่มีการันตีตัวเป้าหมาย
-- ระบบสุ่มแสดงผลเป็น "ไพ่โป๊กเกอร์" — มือที่ได้กำหนดความหายาก
-- คำแนะนำมือใหม่: ใช้ Astrogems เริ่มต้นกับตู้ Standard ก่อน; การ reroll ไม่จำเป็นสำหรับผู้เล่นส่วนใหญ่
-- **โค้ด**: ปลดล็อกหลังผ่านด่าน N1-4; กรอกที่ Settings → Exchange; ตัวพิมพ์เล็ก/ใหญ่มีผล, ใช้ได้ครั้งเดียวต่อบัญชี, ของเข้ากล่องจดหมาย
-  - ตัวอย่างโค้ดที่เคยมีรายงาน (อาจหมดอายุแล้ว): `ORAORA2026` (50 Astrogems + 10,000 Coins, ต.ค. 2026), `PREJOJO2026`, `BIZARREADV`
+### 5.3 การพัฒนาตัวละคร (รายละเอียดตัวเลขอยู่ใน build-guide)
+Character Level (100 ขั้น, เพดานผูกกับ Quest/Account Level) · Ability Level (100 ขั้น แยกเส้น) · Star (★1–★5 แล้วต่อเป็น 16 ขั้น; ปลดสกิลที่ ★2/★3/★5) · Star Tree (132 โหนด 6 ต้นไม้ ใช้ Stone of Destiny + Coin) · Dramatic Scenes · Badges + Gems · Gallery · Spirit Realm (ดูข้อ 5.6 ของ build-guide)
 
----
-
-## 6. ตัวละคร
-
-**หมายเหตุ:** ยังไม่มีแหล่งไหนให้รายชื่อครบ 50 ตัวที่ยืนยันได้ รายการด้านล่างรวมจากหลายแหล่ง; ตามข้อมูล ~40 ตัวเป็นผู้ใช้ Stand
-
-| ความหายาก | ตัวละคร (ที่มีรายงาน) |
+### 5.4 โหมด (📖 Wiki + Hideout)
+| โหมด | สาระสำคัญ |
 |---|---|
-| **SSR** | Jonathan Joestar, Jotaro Kujo (Star Platinum — หยุดเวลา), Koichi Hirose (Echoes — แท็งก์ที่ดีที่สุดยุคเปิด), Muhammad Avdol (Magician's Red), Noriaki Kakyoin (Hierophant Green — limited), Prosciutto (The Grateful Dead), Giorno Giovanna (Gold Experience), Diavolo (King Crimson), Ermes Costello (Kiss — Part 6), Joseph Joestar (เวอร์ชัน Battle Tendency) |
-| **SR** | Joseph Joestar (เวอร์ชันปกติ — แจกตอนลงทะเบียนล่วงหน้า), Lisa Lisa, Tarkus, Viviano Westwood |
-| **R** | Anjuro Katagiri, Bruford, Gwess, Leaky-Eye Luca, Mariah, Pesci |
-| ยังไม่ระบุ | Caesar Anthonio Zeppeli, Iggy (The Fool), Hol Horse (Emperor), F.F. (Foo Fighters), Bruno Bucciarati, Guido Mista, Cioccolata (Green Day — ปล่อยราขึ้นศัตรูที่ถูกควบคุม), Secco (Oasis — ทำพื้นเป็นโคลน, เข้ากับ Cioccolata), Yukako Yamagishi, Tonio Trussardi, Shigekiyo Yangu, Aya Tsuji, Mikitaka Hazekura, Keicho Nijimura, Akira Otoishi, Yoshikage Kira |
+| **Main Story** | Golden Wind 16 บท / 174 ด่าน (Normal/Hard) + เนื้อเรื่องตัวละครจากอีเวนต์ 4 เรื่อง |
+| **Arena** (PvP อะซิงโครนัส) | ตั๋วฟรี 5/วัน (ซื้อเพิ่มได้ 5); 16 ดิวิชัน Novice(1000) → Apex(2500+); ซีซัน 2 สัปดาห์ + ช่วงข้ามเซิร์ฟตอนท้าย; รีเซ็ตเป็น Novice ทุกซีซัน; ชนะ = ฆ่าครบก่อนหมดเวลา, ถ้าหมดเวลาดูตัวรอด→ดาเมจ→ฝ่ายรับชนะเมื่อเสมอ; แจกรางวัลรายวัน 21:00 |
+| **Ranked Match** | เปิดวันที่ 9 ของภูมิภาค; รอบ 7 วัน (วัน 1 เตรียม, 2–7 ท้าสู้); Bronze→Silver→Gold→Platinum→Diamond→Emperor→Champion; Diamond ขึ้นไปใช้ 2 ทีม (รุก/รับ); โซน Swift Promotion/Promotion/Preservation/Relegation |
+| **Extreme Trial** ("Operation Breakout") | 3 รอบคลื่นศัตรู; แหล่งฟาร์ม **Dramatic Scenes** — 4 ด่านเลเวล 20/40/60/80 + 3 ด่านทีม Lv.100 (I/II/III, ใช้ Team Key, ดรอป Camrecorder) |
+| **Interview Trial** | ปกป้อง Giorno จาก Black Sabbath (Koichi ช่วยกดสกัด) |
+| **Bloody Battle!** | roguelike 15 คลื่น เลือกการ์ดสกิลตามเลเวลพลังงาน; ladder 20 ระดับ |
+| **Double Clash** | 2 ทีม × 2 รอบ; ลาดเดอร์ 20 ระดับ; แหล่งวัสดุ **Spirit Board**; ยืมตัวละครเพื่อน/กิลด์ได้ 3 ตัว/วัน |
+| **Endless modes** | (เพิ่มใน v1.1) เวอร์ชัน Endless ของ 3 โหมดข้างบน หมุนเวียนทุกไม่กี่วัน |
+| **World Boss** | 7 บอส (จันทร์ Akira Otoishi · อังคาร Notorious Chase · พุธ Risotto Nero · พฤหัส F.F. · ศุกร์ Tarukus · เสาร์ Wamuu · อาทิตย์ Cool Ice); 5 ความยากต่อบอส (Minion/Promote/Hard/Extreme/Hell); HP 999,999,999 (F.F. 5,000,000) ฆ่าไม่ได้ วัดจากดาเมจใน 1 รัน เรต B–SSS; ช่วงข้ามเซิร์ฟตัวละครทุกตัวถูกล็อก Lv.100; ตัดรอบ 03:45–04:00 (UTC-4) |
+| **Uncharted Journey** | ผจญภัยบนกริดคุก; Onslaught (5 เฟส) / Maneuver (12 เฟส); ตั๋ว 1/วัน (สะสมได้ 7); เก็บ 6 เบาะแสปลดบอสสุดท้าย |
+| **Speedwagon Investigation (SPW Request)** | ส่งปาร์ตี้ 3 ชุด × 8 ชม.; ได้ Gold/วัสดุ/Intel → ค้นหา **Collectibles** (Normal 10 Intel / Precise 10 Classified Intel) |
+| **Guild** | Training (Basic ใช้ Training Voucher, Intensive ใช้ Combat Recording), Entertainment wheel 20 โทเค็น/วัน, Guild Exploration (เปิดวัน 9, 7 วัน/พัก 7 วัน), **Guild Boss** (วัน 2, 7 วัน/พัก 7, 5 บอสจาก Golden Wind หมุน 3 ตัว, 10 รอบ/บอส, 90 วิ/รอบ, ทีมรบ 5 + support 3), Blaze Onslaught (ท้าบอส 5 ตัวต่อรอบ, 3 ครั้ง/วัน, ตัวละครที่ใช้แล้วใช้ซ้ำไม่ได้ทั้งวัน) |
+| **Co-op Raid** | 3 ราย: Johngalli A. · Rubber Soul · Pesci & Prosciutto (ยืมตัวละครผู้เล่นอื่นได้) |
+| **Tactical Simulation** | 5 ด่านรายวัน เป้าหมาย Blitz/Extreme/Purge; ตัวละครทุกตัวถูกตั้งเป็น Lv.100; ได้ตำแหน่ง "Grand Tactician" สำหรับ Top 3 |
+| **อีเวนต์** | เรื่องราวตัวละคร + ตู้ลิมิเต็ด + มินิเกม + ร้านค้า + Season Pass (Free/Advanced/Deluxe); มินิเกมที่พบ: Mist Skirmish, Card Flip, Coin Toss, Orange Bomb, Memory Match, Iggy's Puzzle, Fun Treasure Hunt, Puzzle Fun, Wheel of Fate, Merge Challenge, Crossing Ogre/Ghoul Street, Treasure Hunt |
 
-ตัวละครเด่น:
-- **Jotaro Kujo** — Ultimate หยุดเวลา (The World of Star Platinum) เริ่มการต่อสู้ด้วย 700/1,000 energy
-- **Caesar Zeppeli** — ระยะไกล, Bubble Barrier ตรึงศัตรูได้เมื่อสกิลเต็ม, ฟื้น energy ตัวเอง
-- **Kakyoin** — สร้าง Hierophant's Barrier บนสนาม
+### 5.5 เลเวลปลดล็อกโหมด ⚠️ ข้อมูลหลายชุด
+- **Account/Quest Level (jojogs.dev beginner guide, 📖)**: Lv.6 = Bloody Battle, Guild, Collectibles, Dramatic Scenes, Arena · Lv.7 = Guild Boss, Uncharted Journey · **Lv.13 = Double Clash + Spirit Board**
+- **ตามด่านเนื้อเรื่อง (Wiki, 📖)**: Dramatic Scenes ปลดหลังด่าน N3-10 · Badges หลัง N4-10 · Spirit Realm หลัง N8-10 · Gallery ที่ Quest Level 4
+- ⚠️ Spirit Realm: Wiki = ปลดที่ **ตัวละคร Lv.45** (มี 18 ช่อง ใส่ได้พร้อมกัน 3) vs jojogs.dev = **Account Lv.13** → น่าจะเป็นสองเงื่อนไขต่างชั้น (ต้องมีทั้งระดับบัญชีและเลเวลตัวละคร) — ยังไม่ยืนยัน
 
----
+## 6. Gacha (Recruitment) 📖 Wiki + Hideout Gacha Guide
+- สกุลเงิน: **Astrogem** หรือการ์ด — "Card: Uncharted Fate" (ตัวละครถาวร), "Card: Soul Resonance" (Ability ถาวร), "Card: Timing Choice" (ลิมิเต็ด), "Card: Predestined Hope" (Wishlist/Novice + ตู้รีรัน)
+- อัตรา: **SSR 2.00% / SR 20.00% / R 78.00%**; อัตรา SSR รวมการันตี **2.85%**
+- การันตี: **60 ครั้ง = SSR สุ่ม** (ตู้ถาวร) / **SSR ตัวเด่น** (ตู้ลิมิเต็ด; ตัวนับรีเซ็ตเมื่อได้ตัวเด่น)
+- ตู้ Standard Character: 60 → SSR สุ่ม · **180 → เลือก SSR 1 ตัว (selector ในรายการ 10 ตัว)** · **300 → selector ที่ 2**
+- ตู้ Standard Ability: selector ที่ **150** ครั้ง
+- Wishlist (Novice Recruitment): เลือกตัวเป้าก่อนหมุน การันตีหลังหมุนครบจำนวนที่เกมกำหนด แล้วตู้ปิด (ไม่มีเลขในกฎ ดูตัวนับในตู้)
+- ตัวซ้ำ → shard (ตัวละครเต็มดาวแล้วแปลงเป็นชิป); ทุกครั้งที่หมุนได้ Basic Chip ×60 ด้วย; SSR/SR ซ้ำให้ Premium Chip
+- Selection Character Shard: สะสม 60 ชิ้นเลือก SSR ใดก็ได้ (เพิ่มใน v1.0.17)
+- **ไม่ต้อง reroll** (Hideout; SR ใช้ได้ดี + Novice Recruitment เลือก SSR ให้) — ถ้า reroll เป้าหมายคือ Caesar / Koichi / Ermes
+- ⚠️ ข้อมูลเก่า (KB v1) ที่ว่า "ตู้ featured ไม่มีการันตี" **ผิด** — Wiki และ Hideout ตรงกันว่า 60 ครั้งการันตีตัวเด่น
+- โค้ดแลก: ปลดหลังด่าน N1-4; Settings → Exchange; ใช้ได้ครั้งเดียวต่อบัญชี; ตัวอย่างที่เคยมีรายงาน (อาจหมดอายุ): `ORAORA2026`, `PREJOJO2026`, `BIZARREADV` 🔎
 
-## 7. Tier List (เมตา)
+## 7. รายชื่อตัวละครทั้งหมด 📖 (JoJo Wiki "List of Characters" + Hideout)
 
-**ล่าสุด (พ.ย. 2026, gacha.gg + game.guide สอดคล้องกัน) — S Tier:**
-Caesar Anthonio Zeppeli, Koichi Hirose, F.F., Iggy, Ermes Costello, Giorno Giovanna, Jotaro Kujo, Hol Horse
-- F.F., Giorno, Jotaro, Hol Horse ถูกเลื่อนจาก A → S ในช่วง ต.ค.–พ.ย. 2026 (F.F. ขึ้นเมื่อ 22 ต.ค.)
+**ความหายาก (R/SR/SSR) จาก Wiki; สไตล์/Tier จาก Hideout** — ตัวละคร "ยังไม่ปล่อย" = อยู่ในรายการ Wiki แต่เกมยังไม่ออก ณ 20 พ.ย. 2026
+(เล่นได้ 53 หน้าบน Hideout — รายละเอียดทุกตัวใน [characters.md](characters.md))
 
-ยุคเปิดเกม (ส.ค. 2026): allthings.how จัด Diavolo และ Ermes เป็น S; Destructoid ชม Koichi เป็นแท็งก์ที่ดีที่สุด; TechWiser จัด Mariah ต่ำสุด
-คำแนะนำทีม: ผสมสไตล์ต่างกันเพื่อให้ Ultimate 3 สไตล์เปิด Rush ได้ อย่าใช้สีเดียวกันหมด
+| Part | เล่นได้แล้ว (สไตล์, Rarity) | ยังไม่ปล่อย |
+|---|---|---|
+| **1 Phantom Blood** | Jonathan Joestar (Def, SSR — ⚠️ ถูกถอดตอนเปิดจริง; Hideout มีหน้าแต่ Wiki ติด "unreleased/CBT-only"), Robert E. O. Speedwagon (Sup, SR), Will A. Zeppeli (Sup, SR), Bruford (Ass, R), Tarkus (Ass, SR) | Dio Brando |
+| **2 Battle Tendency** | Joseph Joestar (SSR เพิ่ม 5 พ.ย. 2026 — ยังไม่มีหน้าใน Hideout), Caesar A. Zeppeli (Rng, SSR), Lisa Lisa (Ass, SR), Rudol von Stroheim (Def, SR), Straizo (Agi, R), Santana (Def, SR) | Wamuu, Kars |
+| **3 Stardust Crusaders** | Jotaro Kujo (Ass, SSR), Joseph Joestar (Sup, SR), Muhammad Avdol (Spc, SSR), Noriaki Kakyoin (Rng, SSR), Iggy (Def, SSR), Imposter Captain Tennille (Spc, SR), Rubber Soul (Def, R), Hol Horse (Rng, SR), N'Doul (Agi, SR), Chaka (Ass, SR), Mariah (Sup, R), Pet Shop (Spc, SR) | Polnareff, Vanilla Ice, DIO |
+| **4 Diamond is Unbreakable** | Koichi Hirose (Spc, SSR), Tonio Trussardi (Sup, SR), Shigekiyo Yangu (Spc, R), Anjuro Katagiri (Spc, R), Keicho Nijimura (Rng, SR), Akira Otoishi (Agi, SR) | Josuke, Okuyasu, Rohan, Jotaro (Part 4), Yukako, Aya Tsuji, Mikitaka Hazekura, Yoshikage Kira |
+| **5 Golden Wind** | Giorno Giovanna (Sup, SSR), Bruno Bucciarati (Agi, SSR), Leone Abbacchio (Def, SR), Guido Mista (Rng, SR), Narancia Ghirga (Spc, SR), Diavolo (Agi, SSR), Leaky-Eye Luca (Ass, R), Mario Zucchero (Agi, SR), Sale (Rng, R), Formaggio (Agi, SR), Prosciutto (Ass, SSR), Pesci (Sup, R), Melone (Agi, SR), Ghiaccio (Def, SR), Squalo (Agi, R), Cioccolata (Spc, SSR), Secco (Ass, SR) | Fugo, Trish, Illuso, Risotto Nero, Tizzano |
+| **6 Stone Ocean** | Ermes Costello (Def, SSR), F.F. (Rng, SSR), Lang Rangler (Sup, SR), Gwess (Agi, R), Johngalli A. (Rng, SR), Sports Maxx (Ass, SR), Viviano Westwood (Ass, SR), Kenzou (Sup, SR) | Jolyne, Emporio, Jotaro (Part 6), Enrico Pucci |
 
----
+หมายเหตุ: Kakyoin/Iggy/Joseph(SSR) เป็นตัวลิมิเต็ดตามอีเวนต์; ตัวละครที่ Wiki ระบุ Rare แต่ Hideout ใส่สไตล์/Tier ต่างกัน ให้ยึดช่อง Rarity ของ Wiki
+นักพากย์: ⚠️ ไม่พบข้อมูลนักพากย์/ทีมดนตรีของเกมในแหล่งที่อ่าน
 
-## 8. แบนเนอร์และอีเวนต์หลังเปิดเกม
+### Stand/ตัวละครที่เป็นบอสหรือ NPC (ยังเล่นไม่ได้) 📖 Wiki
+บอสและศัตรู: Tarukus, Wamuu, Cool Ice, Akira Otoishi, Notorious Chase, Risotto Nero, F.F. (World Boss) + Wang Chan, Jack the Ripper, Adams, Doobie, Tattoo, Amato (Part 1), Boingo, D'Arby (Part 3), Vinegar Doppio (Part 5); Stand ทั้งหมด 50+ ชื่อเป็นข้อมูลอ้างอิงใน Wiki
 
-| ช่วงเวลา | เนื้อหา |
-|---|---|
-| เปิดเกม (13 ส.ค. 2026) | ตู้พิเศษ SSR **Jotaro Kujo**; รางวัลลงทะเบียนล่วงหน้า SR **Joseph Joestar** |
-| ถึง 7 ต.ค. 2026 | ตู้ limited **Iggy** |
-| ช่วงหลังเปิด | ตู้ Caesar Zeppeli; อีเวนต์ Steel Ball Run (ครั้งที่ 2 เพิ่มใน patch 21 ต.ค.) |
-| 8 ต.ค. – 4 พ.ย. 2026 | ตู้ limited SSR **Noriaki Kakyoin** (Hierophant Green, Ranged) + เนื้อหา "The Solitary Hierophant" ⚠️ วันจบไม่ตรงกันบางแหล่ง |
-| 21 ต.ค. 2026 | Patch: กรอบอวตารแบบเคลื่อนไหว, ทำ badge ทีละหลายอัน, อีเวนต์ Steel Ball Run รอบสอง |
-| 27 ต.ค. – 3 พ.ย. 2026 | อีเวนต์ limited **Blaze Onslaught**; ทีเซอร์ตัวละคร Part 4 (ใบ้ด้วยหมากฝรั่งรสกาแฟ) และทีเซอร์ "Stand สีเขียว" |
-| ถึง 5 พ.ย. 2026 | **Selectable Featured Recruitment** — เลือกเป้าได้: Cioccolata / Mohammed Avdol / Diavolo |
-| 5 พ.ย. 2026 | Joseph Joestar (Battle Tendency, SSR) เข้าโหมด **Battle of Fate** |
-| Q4 2026 | Diavolo (SSR) ถูกเพิ่ม |
+## 8. Tier list (เมตา) — ⚠️ ระบุวันที่เสมอ
 
----
+### 8.1 Hideout Gacha — โหวตชุมชน (อ่านเต็มหน้า 20 พ.ย. 2026, **ภาพรวม Overall**) 📖
+- **Tier S (10)**: Prosciutto, Jotaro Kujo (Assault) · Iggy, Ermes Costello (Defense) · Bruno Bucciarati (Agility) · Noriaki Kakyoin, Caesar A. Zeppeli, F.F. (Ranged) · Koichi Hirose (Special) · Giorno Giovanna (Support)
+- **Tier A (8)**: Lisa Lisa · Diavolo · Hol Horse · Muhammad Avdol · Joseph (SR), Kenzou, Speedwagon, Tonio Trussardi
+- **Tier B (5)**: Rubber Soul · Guido Mista, Keicho Nijimura · Imposter Captain Tennille · Pesci
+- **Tier C (2)**: Cioccolata, Narancia Ghirga
+- (ตัวอื่นที่เหลือถูกจัดไว้ Tier D ในหน้าตัวละคร)
 
-## 9. ผลประกอบการและการตอบรับ
+### 8.2 Tychara — ⚠️ ข้อมูลช่วง **Closed Beta** (อัปเดต 11 ส.ค. 2026 — ล้าสมัย ใช้เป็นประวัติ) 📖
+SS: Caesar, Giorno, Jonathan, Koichi · S: Bucciarati, Ermes, F.F., Johngalli A. · A+: Cioccolata, Diavolo, Avdol, Secco, Sports Maxx, Tonio · (ที่เหลือ A–C)
 
-- **ลงทะเบียนล่วงหน้า**: >1.5 ล้าน (ช่วงงบ Q2) → >2 ล้าน (7 ส.ค. 2026)
-- **อันดับ**: เกาหลีใต้ — อันดับ 2 เกมฟรี iPhone วันแรก, ตกเป็นอันดับ 9 วันที่ 3; ไม่ติด Top 20 รายได้ Google Play ในตลาดใดเลยจาก 15 ตลาดที่ติดตาม
-- **Google Play**: ~1 ล้านดาวน์โหลด, ~4.1 ดาว, ~9,800 รีวิว (ณ ช่วงที่สำรวจ)
-- **รายได้ (ประมาณการจากเว็บติดตาม ไม่ใช่ตัวเลขบริษัท)**: ส.ค. 2026 ≈ US$1.2M (เดือนสูงสุด); ก.ย. 2026 ≈ US$400K (ลดลง 67%)
-- **KLab**: งบ Q2 2026 (เม.ย.–มิ.ย., ก่อนเปิดเกม) รายได้ ¥3.26 พันล้าน (ราวสองเท่าของปีก่อน), กำไรจากการดำเนินงาน ¥493 ล้าน; งวดครึ่งปีรายได้ ¥4.9 พันล้าน (+57.2%); เป้าทั้งปี ¥17 พันล้าน ⚠️ บทสรุปหนึ่งอ้างว่าเกมนี้ทำกำไร ~¥500 ล้านในไตรมาสก่อนเปิดตัว — ไม่สมเหตุสมผล อย่าเชื่อ
-- **รีวิว Game8**: "เป็นการตีความสูตรเกม RPG มือถือที่คุ้นเคยได้อย่างมั่นคงและสนุก แต่ต้องใช้ความทุ่มเทสูง"
+### 8.3 ข้อมูลเก่า (KB v1, 🔎 gacha.gg/game.guide ช่วง ต.ค.–พ.ย.): S = Caesar, Koichi, F.F., Iggy, Ermes, Giorno, Jotaro, Hol Horse
+→ เทียบกับ Hideout ล่าสุด: Prosciutto/Bucciarati/Kakyoin ขึ้น S, Hol Horse ลง A
 
----
+## 9. ภูมิภาค/ภาษา/ประเทศ
+- **ไทย**: เปิดให้เล่นใน Google Play/App Store ไทย — แนวหน้า 15 ส.ค. 2569 📖 (ข่าวไทยฉบับเดียวที่พบ; อ่านจากหน้าต้นฉบับ). ภาษาไทยในเกม ⚠️ ข่าวบอกว่ามี แต่ App Store US ระบุ English เท่านั้น → **ยังไม่ยืนยัน ต้องเปิดเกมดูเอง**
+- **ญี่ปุ่น**: ไม่เปิดตัว (KLab ระบุ "ยกเว้นญี่ปุ่น"); ยังไม่มีประกาศแผน
+- **จีน/ฮ่องกง/ไต้หวัน/มาเก๊า**: ไม่อยู่ในภูมิภาค global; จีนต้องมีใบอนุญาต 版号 — 🔎 ค้นแล้วไม่พบข้อมูลใบอนุญาตหรือวันเปิดภายในประเทศ (ดูเว็บทางการจีน/NPPA)
+- **เกาหลี**: 🔎 ค้นไม่พบประกาศบริการเกาหลีโดยเฉพาะ; namu.wiki โหลดไม่ได้ (บล็อก/เครือข่าย) — ข้อมูลเรตอายุ 12+ และอันดับ App Store เกาหลี (อันดับ 2 วันแรก → 9 วัน 3) ในเวอร์ชันก่อนมาจากสรุปค้นหา ยังไม่ได้ยืนยัน
 
-## 10. ประเด็นที่ยังไม่ชัดเจน / ควรตรวจสอบเพิ่ม
+## 10. ผลประกอบการและการตอบรับ
+- ลงทะเบียนล่วงหน้า **>2 ล้าน** (KLab 7 ส.ค. 2026) 📖
+- Google Play **1M+ ดาวน์โหลด, 4.3★, 11.5K รีวิว**; App Store 4.0★/944 (20 พ.ย.) 📖 — (เทียบ v1: ~4.1★/9.8K → ดีขึ้น)
+- รีวิว App Store ภาษาอังกฤษที่อ่านมีคำบ่นเรื่องบั๊ก/ค้าง/ไอคอนไม่ขึ้น 📖
+- รายได้ (ประมาณการจากเว็บติดตาม ไม่ใช่ตัวเลขบริษัท 🔎 จาก KB v1): ส.ค. ≈ US$1.2M, ก.ย. ≈ US$400K (−67%) — **ตรวจซ้ำรอบนี้ไม่พบข้อมูล Sensor Tower/AppMagic ใหม่** (ผลค้นหาปนกับเกม Ora Ora Overdrive)
+- KLab: ธุรกิจ "โมเดลสนับสนุน" — ยังไม่มีงบหลังเปิดเกม (ไตรมาส 3/2026) ในแหล่งที่อ่าน
+- Game8 review (🔎): "การตีความสูตร mobile RPG ที่คุ้นเคยได้มั่นคง ต้องทุ่มเทสูง"
 
-1. รายชื่อตัวละครครบ 50 ตัวพร้อมความหายากและสไตล์
-2. รองรับภาษาไทยหรือไม่ (App Store แสดงเฉพาะอังกฤษ)
-3. แผนเปิดในญี่ปุ่น / จีน (ยังไม่มีประกาศ; จีนต้องรอใบอนุญาต 版号)
-4. นักพากย์ในเกม (ยังไม่พบข้อมูล)
-5. ภูมิภาคของ CBT เดือน ม.ค. 2026
-6. งบ KLab ไตรมาส 3 (หลังเปิดเกม)
+## 11. ประวัติอัปเดต (📖 jojogs.dev changelog)
+- **v1.0.10 (Final CBT)**: Treasure Hunt, ข้าม/เร่งการต่อสู้, หน้าอัปเกรด Character Gallery, ลดความแรงศัตรู/บอส 106 ตัว (เพิ่มเฉพาะ Tattoo), ลดเกณฑ์คะแนน World Boss (เช่น 500,000→330,000) + เพิ่ม Refined Iron/Gold Ingot ในรางวัลอันดับ, Badge Blueprint Selection Chest, Voyager Pack I–V, Monthly Card → Premium, กล่องจดหมาย 50→100
+- **v1.0.17 (Global Launch)**: เลือกเซิร์ฟ EU/NA/SEA, เพิ่ม Jotaro, Noble Soul (9 บท), Selection Character Shard (60 ชิ้น), Voyager Pack ถึงระดับ VI, ปรับเกณฑ์ World Boss/Trial ให้เหมาะกับรายชื่อ global, Team Builder ไฮไลต์ตัวแนะนำที่ยังไม่มี
+- หลังเปิด: แพตช์เล็กหลายครั้ง (res19/21 ฯลฯ), Jotaro Badge Blueprint เข้าร้าน Monthly Pass (ซื้อได้ 4), ตู้ Ability ให้โอกาส SSR ใน wishlist สูงขึ้นมาก, ข้อเสนอพิเศษ 10 Uncharted Fate ที่ Quest Level 5
+- ⚠️ หน้า Update History ของ JoJo Wiki ปิดปรับปรุงตอนอ่าน (20 พ.ย. 2026) จึงไม่ได้เก็บ patch note จากวิกิ — Wiki ให้ลิงก์ Wayback Machine (ฉบับ 19 ต.ค. 2026)
 
----
+## 12. ประเด็นที่ยังไม่ชัดเจน (ทำ/ค้นต่อ)
+1. ภาษาไทยในเกม (ข่าวไทย vs App Store) — ต้องเปิดเกมดู
+2. สถานะ 版号/วันเปิดจีน, แผนญี่ปุ่น — ไม่มีประกาศ
+3. รายได้/ดาวน์โหลดจริงหลัง ก.ย. 2026 + งบ KLab Q3
+4. นักพากย์ในเกม, คอมโพเซอร์ — ไม่พบ
+5. namu.wiki, 4gamer, gamewith, gamersky, bilibili, TapTap ฯลฯ — ไม่ได้อ่านเต็มรอบนี้ (ดู sources.md)
+6. YouTube transcript — ดึงไม่ได้ (ดู youtube/index.md)
 
-## 11. แหล่งอ้างอิง
-
-**อังกฤษ**
-- JoJo Wiki — https://jojowiki.com/Golden_Spirit_(Game) · https://jojowiki.com/Golden_Anthem · https://jojowiki.com/Golden_Spirit_(Game)/Events · https://jojowiki.com/Golden_Spirit/Diavolo
-- App Store — https://apps.apple.com/us/app/jojos-bizarre-adventure-gs/id6757908157
-- Game8 review — https://game8.co/reviews/jojo-s-bizarre-adventure-golden-spirit/jojos-bizarre-adventure-golden-spirit-review
-- Anime Corner — https://animecorner.me/jojos-bizarre-adventure-golden-spirit-new-mobile-game-opens-closed-beta-pre-registrations/ · https://animecorner.me/jojos-bizarre-adventure-golden-spirit-mobile-game-officially-launches-with-over-50-playable-characters/
-- Notebookcheck — https://www.notebookcheck.net/JoJo-s-Bizarre-Adventure-Golden-Spirit-locks-August-13-launch-date-on-mobile.1362598.0.html · https://www.notebookcheck.net/JoJo-s-Bizarre-Adventure-Golden-Spirit-adds-SSR-Jotaro-banner.1374711.0.html
-- JoJo News — https://jojo-news.com/2022/01/20/klab-acquires-worldwide-distribution-rights-for-jojo-mobile-game/ · https://jojo-news.com/2024/06/19/klab-inc-resurrects-development-of-jojos-bizarre-adventure-mobile-game/ · https://jojo-news.com/2025/12/29/jojos-bizarre-adventure-golden-anthem-first-official-trailer/ · https://jojo-news.com/2026/01/29/jojos-bizarre-adventure-golden-anthems-closed-beta-details-and-characters-revealed/ · https://jojo-news.com/2026/08/13/jojos-bizarre-adventure-golden-spirit-mobile-game-officially-launched-on-august-13/
-- Official X — https://x.com/jojogs_official/status/2108017093723693130
-- Pocket Gamer — https://www.pocketgamer.com/jojos-bizarre-adventure-golden-spirit/beginners-guide/ · https://www.pocketgamer.com/jojos-bizarre-adventure/closed-beta-test/
-- Tier lists — https://www.gacha.gg/jojo-golden-spirit/tier-list · https://www.game.guide/jojo-golden-spirit-tier-list · https://allthings.how/jojo-s-golden-spirit-tier-list/ · https://www.destructoid.com/jojos-bizarre-adventure-golden-spirit-character-tier-list/ · https://techwiser.com/jojos-bizarre-adventure-golden-spirit-tier-list-characters/
-- Guides — https://www.hideoutgacha.com/games/jojo-golden-spirit/characters · https://www.hideoutgacha.com/games/jojo-golden-spirit/beginner-guide · https://goldenspiritguides.com/ · https://goldenspiritguides.com/news/jojo-golden-spirit-update-history · https://jojosbizarreadventuregoldenspirit.wiki/ · https://jojogs.dev/changelog · https://finalboss.io/jojos-bizarre-adventure-golden-spirit-beginner-guide-rush-upgrades · https://gamepretty.com/jojos-bizarre-adventure-gs-gacha-rates-pity-system-reroll-strategy-guide/
-- News — https://www.hideoutgacha.com/news/jojo-golden-spirit/kakyoin-limited-recruitment-solitary-hierophant · https://allthings.how/jojo-golden-spirit-should-you-pull-on-the-caesar-zeppeli-banner/ · https://cosm-game.com/news/jojos-bizarre-adventure-golden-spirit-launches-globally/ · https://finance.biggo.com/news/JP_3656.T_2026-08-27
-
-**ญี่ปุ่น**
-- KLab — https://www.klab.com/jp/press/release/2026/0526/preregister.html · https://www.klab.com/jp/press/release/2026/0807/j.html · https://www.klab.com/jp/press/release/2026/0813/j.html
-- 4Gamer — https://www.4gamer.net/games/999/G999904/20201225058/ · https://www.4gamer.net/games/614/G061448/20220120015/
-- 電ファミニコゲーマー — https://news.denfaminicogamer.jp/news/240619p
-- gamebiz — https://gamebiz.jp/news/431052 · https://gamebiz.jp/news/432040 · https://gamebiz.jp/news/420907
-- GameWith — https://gamewith.jp/gamedb/7425/articles/19651
-- อันดับเกาหลี — https://velleity-note.blog/news-game/korea-jojo-golden-spirit-launch-rank/
-
-**จีน**
-- 游民星空 — https://www.gamersky.com/news/202512/2067956.shtml · https://ku.gamersky.com/2026/jojo2026/
-- 新浪 — https://finance.sina.com.cn/tech/roll/2024-06-19/doc-inazhmef8615016.shtml
-- 3DM — https://www.3dmgame.com/news/202406/3897696.html
-- 蚕豆网 — http://m.candou.com/news/923808.shtml
-
-**เกาหลี**
-- 나무위키 — https://namu.wiki/w/죠죠의%20기묘한%20모험:%20골든%20스피릿
-- Inven — https://www.inven.co.kr/webzine/news/?news=319549
-- 경향게임스 — https://www.khgames.co.kr/news/articleView.html?idxno=307345
-- Gamemeca — https://www.gamemeca.com/en/view.php?gid=1779142
-- 베타뉴스 — https://www.betanews.net/article/view/beta202608140015
+## 13. แหล่งอ้างอิง
+ดูรายการเต็มพร้อมสถานะ "อ่านเต็ม / สรุปค้นหา / เข้าไม่ได้" ใน [sources.md](sources.md)
