@@ -84,6 +84,9 @@ Jotaro มี **Ultimate ให้เลือก 2 แบบ** ("ท่าท�
 ลำดับจาก WG:B: **Basic Attack Strength**, Attack Speed (เพื่อโจมตีปกติบ่อยขึ้น), Single-Target DMG, **Crit Rate**, Damage Boost Rate, Crit Boost (+ **Impulse** เมื่อใช้ Kenzou)
 ไม่ต้องใช้ Gem Fury ("it is broken… no real point" — WG:B 33:40)
 
+> ⚠️ **Ultimate Strength กับ Jotaro (ตรวจ 20 พ.ย. 2026):** ไม่มีแหล่งใดยืนยันว่ามีผล — คำอธิบายในเกม/Wiki: Ultimate Strength = "เพิ่มดาเมจของ Ultimate" แต่ทุกฮิตของ Time Stop/You've Angered Me/Ora Ora ระบุว่า "counts as an independent basic attack"; You've Angered Me ตัวมันเองไม่มีดาเมจ (แค่แปลงโจมตีปกติ 5 ครั้ง) จึงแทบแน่ใจว่า Ultimate Strength **ไม่ช่วย** บิลด์นั้น; Time Stop ยังไม่ชัด → ทดสอบเองใน Tactical Simulation (ใส่/ถอด Ultimate Gem แล้วเทียบตัวเลขดาเมจ) · ค่าที่ได้ผลแน่: Basic Attack Strength, Damage Boost, Melee DMG, Crit
+
+
 ---
 
 ## 5. Spirit Power (Spirit Board) — 🎥 Ray 1:29–1:50
