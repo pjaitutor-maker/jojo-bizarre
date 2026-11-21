@@ -84,7 +84,7 @@ Jotaro มี **Ultimate ให้เลือก 2 แบบ** ("ท่าท�
 ลำดับจาก WG:B: **Basic Attack Strength**, Attack Speed (เพื่อโจมตีปกติบ่อยขึ้น), Single-Target DMG, **Crit Rate**, Damage Boost Rate, Crit Boost (+ **Impulse** เมื่อใช้ Kenzou)
 ไม่ต้องใช้ Gem Fury ("it is broken… no real point" — WG:B 33:40)
 
-> ⚠️ **Ultimate Strength กับ Jotaro (ตรวจ 20 พ.ย. 2026):** ไม่มีแหล่งใดยืนยันว่ามีผล — คำอธิบายในเกม/Wiki: Ultimate Strength = "เพิ่มดาเมจของ Ultimate" แต่ทุกฮิตของ Time Stop/You've Angered Me/Ora Ora ระบุว่า "counts as an independent basic attack"; You've Angered Me ตัวมันเองไม่มีดาเมจ (แค่แปลงโจมตีปกติ 5 ครั้ง) จึงแทบแน่ใจว่า Ultimate Strength **ไม่ช่วย** บิลด์นั้น; Time Stop ยังไม่ชัด → ทดสอบเองใน Tactical Simulation (ใส่/ถอด Ultimate Gem แล้วเทียบตัวเลขดาเมจ) · ค่าที่ได้ผลแน่: Basic Attack Strength, Damage Boost, Melee DMG, Crit
+> ✅ **ทดสอบแล้ว (World Boss, 20–21 พ.ย. 2026, ทีม Prosciutto · Jotaro · Giorno · Caesar · Avdol):** ใส่ Ultimate Gem ×2 (Ultimate Strength +12%) → ดาเมจ Jotaro 98.1M, 93.6M (เฉลี่ย 95.9M) · ถอดออก → 99.2M, 95.7M, 95.6M, 95.7M (เฉลี่ย 96.6M) → **ไม่มีผลที่วัดได้** (ต่างกันน้อยกว่าค่าสุ่มระหว่างรอบ) → อย่าใส่ Ultimate Gem/Ultimate Strength ให้ Jotaro; ใช้ Basic Attack Strength, Damage Boost, Melee DMG, Crit แทน
 
 
 ---
