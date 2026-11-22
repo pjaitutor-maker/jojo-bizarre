@@ -55,7 +55,7 @@
 | Special | Shigekiyo Yangu | R | 1 | S11 | รุ้ง |
 | Special | Anjuro Katagiri | R | 1 | S11 | รุ้ง |
 | Special | Captain Dragon | SR | 1 | S3 | รุ้ง❓ |
-| Support | **Giorno Giovanna** | SSR | 100 | S8 | รุ้ง❓ |
+| Support | **Giorno Giovanna** | SSR | 100 | S8 | รุ้ง (★6 ยืนยันโดยผู้เล่น 22 พ.ย.) |
 | Support | **Pesci** | R | 100 | S11 | รุ้ง |
 | Support | **Tonio Trendy** | SR | 100 | S4 | รุ้ง❓ |
 | Support | Will A. Zeppeli | SR | 2 | S7 | ทอง |
@@ -69,7 +69,7 @@
 
 ## 2. โปรไฟล์แอคเคาท์ 💡
 - มี **ทุกตัวในเกม** และ SSR Tier S ครบ 10 ตัว (Prosciutto, Jotaro, Iggy, Ermes, Bucciarati, Kakyoin, Caesar, F.F., Koichi, Giorno)
-- ทรัพยากรหนักลงที่ **Iggy (★6 S9) + Giorno (S8) + Lisa Lisa (S5) + Pesci (Lv100 S11)** = ชุด **"Jotaro Castle"** (ทีม Arena อันดับต้นของชุมชน Hideout 14 พ.ย.) ครบทั้ง 5 ที่ Lv.100 แล้ว
+- ทรัพยากรหนักลงที่ **Iggy (★6 S9) + Giorno (★6 S8) + Lisa Lisa (S5) + Pesci (Lv100 S11)** = ชุด **"Jotaro Castle"** (ทีม Arena อันดับต้นของชุมชน Hideout 14 พ.ย.) ครบทั้ง 5 ที่ Lv.100 แล้ว
 - จุดอ่อน: **SSR ส่วนใหญ่ยัง S0–S1 และน่าจะ ★1** (ไอคอนดำ) → ตัวที่ต้องพึ่ง Ultimate ที่ 2 จาก S1 (Caesar, Ermes, Bucciarati) ยังไม่ปลด
 
 ## 3. ทีมแนะนำแยกโหมด (ทุกตัวมีและ Lv.100 แล้ว เว้นที่ระบุ) 📖
@@ -100,7 +100,7 @@
 | **Ermes** | S0 | → **S1** (ซื้อจากร้านได้) | ปลด *Hypersonic Harpoon* — ตัวที่ทำให้ Ermes เป็น Tier S |
 | **Bucciarati** | S0 | → **S1** | ปลด *Zipper Space* — "ตัวที่ทำให้แรงใน PvP" |
 | **Jotaro** | S1 ✅ ดาว❓ | ถ้า ★1 → ดัน **★3** ก่อน (*Settled Debt* สำคัญสุด) แล้ว ★5 | Time Stop ปลดแล้ว; ★3 = โล่ + ATK จากการโดนตี |
-| **Giorno** | S8 ดาว❓ | ถ้ายังไม่ ★2 → **★2 ทันที** (*Life Energy Detection* = ตัวซ้ำคุ้มที่สุดในเกม) | ถ้ารุ้งแล้ว = จบ |
+| **Giorno** | ★6 S8 ✅ | ไม่ต้องทำอะไรแล้ว (S9–S11 ได้แค่ตัวเลข) | ★2 *Life Energy Detection* ผ่านแล้ว |
 | **F.F.** | S1 ดาว❓ | ต้อง **★2** (Passive 1 คือกลไกหลัก) | |
 | **Speedwagon** | Lv.1 | อัปเป็นทีม World Boss 3 วัน/สัปดาห์ (Tier A) | ไม่ต้องดาว |
 
@@ -109,13 +109,13 @@
 - **Avdol**: ต้อง ★5 ขึ้นไปถึงคุ้ม — ไม่แนะนำลงทุน · **Cioccolata**: Tier C, ★3 พอ
 
 ### 4.3 ใช้ตู้ selector (Standard Character 180/300 · Ability 150) 📖
-ลำดับ jojogs: **Giorno ★2 (ถ้ายังไม่ถึง) > ตัวซ้ำแรกของ Caesar / Koichi > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
+ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว) > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
 
 ### 4.4 ตัวลิมิเต็ด
 - **Joseph SSR** S0 — 📖 ผู้เล่นเกาหลีติดอันดับด้วย **★3 S0** → ถ้ามี shard จากอีเวนต์ *Battle of Fate* (ถึง **3 ธ.ค. 2026**) ดันถึง ★3 แล้วหยุด; ไม่ต้องลง Ability
 - **Kakyoin** S0 — Tier S, เกาหลีบอกอันดับบน "ใช้ Kakyoin เต็ม" แต่ฐานข้อมูล**ไม่มี**เกณฑ์ดาว/Ability ของ Kakyoin → ยังไม่แนะนำให้ทุ่มจนกว่าจะมีข้อมูล
 
 ## 5. ค้างตรวจ ❓
-1. นับกุญแจบนสกิลของ **Jotaro, Giorno, Caesar, F.F.** เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
+1. นับกุญแจบนสกิลของ **Jotaro, Caesar, F.F.** (Giorno ยืนยัน ★6 แล้ว) เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. Gem ที่ Iggy ใส่อยู่ชื่ออะไร (ดู iggy-account2.md)
 3. ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
