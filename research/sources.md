@@ -57,9 +57,38 @@
 ## YouTube
 ดู [youtube/index.md](youtube/index.md) — ✅ metadata, ⛔ transcript (HTTP 429)
 
+## รอบ 22 พ.ย. 2026 (ค้นทุกภาษา) — รายละเอียดใน [global-research-2026-11-22.md](global-research-2026-11-22.md)
+| แหล่ง | ภาษา | สถานะ |
+|---|---|---|
+| Hideout Gacha /community/teams (Jotaro Castle 14 พ.ย.) | EN | ✅ |
+| goldenspiritguides — arena-and-ranked (20 ก.ย.), formation-grid (7 ส.ค.), joseph-joestar-battle-tendency (12 พ.ย.), update-history (12 พ.ย.) | EN | ✅ |
+| allthings.how — Diavolo build (29 ส.ค.), badges guide (14 ส.ค.), Caesar (23 ส.ค.), Giorno badge, tier list (13 ส.ค.) | EN | ✅ |
+| Pocket Tactics (19 ก.ย.), LDPlayer (25 ส.ค.), Beebom codes (3 พ.ย.), mturbogamer (4 ต.ค.) | EN | ✅ |
+| JoJo Wiki Update_History (แก้ไข 4 พ.ย.), Events (9 พ.ย.), Diavolo | EN | ✅ |
+| reddit.com / old.reddit.com | EN | ⛔ fetch ถูกบล็อก |
+| progameguides, destructoid | EN | ⛔ 403 |
+| X @jojogs_official | EN | 🔎 (402) |
+| DCinside minor gallery jojogosp (โพสต์ ส.ค.–22 พ.ย.) | KO | ✅ (คอมเมนต์ไม่โหลด) |
+| Inven (14 ส.ค.), Gamemeca (14 ส.ค.), OSLink KR (15 ส.ค.) | KO | ✅ |
+| namu.wiki, arca.live | KO | ⛔ 403 |
+| naver blog/cafe | KO | ⛔ |
+| gamerch.com/jjbags (tier/reroll 17 ส.ค.) | JP | ✅ |
+| game8.jp, altema, appmedia, gamewith, note, 5ch | JP | ⛔ ไม่พบหน้าของเกมนี้ |
+| gamebusiness.jp (12 พ.ย. — ไม่กล่าวถึงเกม) | JP | ✅ |
+| gamebiz.jp/news/420907 | JP | ⛔ 403 |
+| TapTap app 786756, review 47660941 | CN | ✅ |
+| pp.cn (16 ก.ค.) | CN | ✅ |
+| NGA, bilibili, 小黑盒, gamekee, 贴吧, Weibo | CN | ⛔ ค้นตรงไม่ได้ |
+| online-station.net (14 ส.ค.), แนวหน้า, App Store TH | TH | ✅ |
+| เวียดนาม/อินโด/สเปน/โปรตุเกส/รัสเซีย/ฝรั่งเศส/เยอรมัน | — | 🔎 ได้แต่ไกด์อังกฤษ |
+
 ## ข้อมูลที่ขัดกัน (สรุป)
 1. ค่าโบนัสสไตล์ Defense/Ranged: Wiki (30%/5 วิ, 5%/ช่อง) vs Hideout (20%/15 วิ, 4%/ช่อง) → เชื่อ Wiki; ตรวจในเกม
 2. Spirit Realm ปลดที่: ตัวละคร Lv.45 (Wiki) vs Account Lv.13 (jojogs/PUG) → น่าจะต้องทั้งสองเงื่อนไข
 3. ภาษาไทยในเกม: แนวหน้า (มี) vs App Store US (English เท่านั้น)
 4. Jonathan Joestar: Wiki ติด "unreleased/CBT-only", Hideout และ Tychara มีหน้า/จัด Tier → อาจเพิ่มหลังเปิดหรือเป็นข้อมูลค้าง
 5. ผู้เผยแพร่: Wanda Cinemas Games (Google Play) vs HOOLAI GAME LIMITED (App Store) — บริษัทในเครือเดียวกัน
+6. Joseph SSR ขั้นต่ำ: zilas ★5+S1 vs ผู้เล่นเกาหลีอันดับ 2 ใช้ ★3/S0 (22 พ.ย.)
+7. Badge Prosciutto: allthings Akira Otoishi vs Hideout Avdol (และ allthings หน้า Diavolo ว่า Akira รับดาเมจ +20%)
+8. Badge Diavolo: allthings 14 ส.ค. Rangler/Akira vs 29 ส.ค. Kenzou
+9. Tier Ermes/F.F./Koichi: ต่ำใน gamerch (ญี่ปุ่น ส.ค.) vs S ในไกด์อังกฤษ

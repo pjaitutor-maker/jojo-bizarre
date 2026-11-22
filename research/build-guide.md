@@ -4,6 +4,7 @@
 > ระดับความน่าเชื่อถือ: 📖 = อ่านหน้าต้นฉบับเต็ม · 🔎 = สรุปจากผลค้นหา · ⚠️ = แหล่งขัดกัน
 > **YouTube:** ดึง transcript ไม่ได้ (YouTube ตอบ HTTP 429 ต่อการขอซับไตเติลจากเครื่องนี้ แม้อัปเดต yt-dlp และเว้นจังหวะแล้ว) — ได้เฉพาะ **ชื่อ/ช่อง/วันที่/ยอดวิว/บท (chapters)/description** ดู [youtube/index.md](youtube/index.md) → **บิลด์ในไฟล์นี้ไม่ได้มาจากเนื้อหาในคลิป** ห้ามอ้างว่าเป็นของคลิป
 > **บิลด์ละเอียดรายตัว:** [builds/jotaro.md](builds/jotaro.md) (มี transcript YouTube ที่อ่านผ่าน Chrome)
+> **ค้นเพิ่มทุกภาษา 22 พ.ย. 2026 (ทีม Arena "Jotaro Castle", กติกา Arena, Joseph SSR ★3, badge/gem รายตัว):** [global-research-2026-11-22.md](global-research-2026-11-22.md)
 > ไฟล์คู่กัน: [golden-spirit.md](golden-spirit.md) · [characters.md](characters.md) (สกิล+บิลด์ละเอียดทุกตัว) · [badges.md](badges.md)
 
 ---
