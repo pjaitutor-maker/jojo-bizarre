@@ -40,15 +40,17 @@
 - 💡 มีแค่ 3 สกิล ไม่มี *Covenant* → Badge เกรด **Legendary** (Mythic จะมี Covenant 8/8 เพิ่ม)
 - 💡 ขนาดโดยประมาณ: DEF 35.1K × 160% ≈ โล่ ~56K ทุก 3 วิ · Revival ≈ ฮีล ~105K ทุก 10 วิ (~15% Max HP) — เป็นการคำนวณจากสูตร ไม่ใช่ค่าที่วัดในเกม
 
-### Spirit Power — 3 ชิ้น ระดับ VI ครบ 6 ช่องทุกชิ้น (ไม่เปลี่ยนจาก 22 พ.ย.)
+### Spirit Power — 3 ชิ้น ระดับ VI ครบ 6 ช่องทุกชิ้น (อัปเดต 24 พ.ย.: ชิ้นม่วงเปลี่ยนเป็นทองใหม่)
 | ชิ้น | เกรด | ATK/DEF/HP | Talent |
 |---|---|---|---|
 | แดง | **Outstanding** | 520 / 260 / 7,803 | Shielded Bonus +14.5%, DMG Reduction +9.1%, Shield Bonus +14.2% |
 | ทอง | Excellent | 382 / 191 / 5,736 | Crit Res +1,450, Block Rate +4.3%, Skill Charge Rate +10.5% |
-| ม่วง | Superior | 281 / 140 / 4,216 | Shield Bonus +6.7%, Block Rate +4.2%, Shielded Bonus +6.9% |
+| ทอง (ใหม่) | Excellent | 382 / 191 / 5,736 | **Shielded Bonus +10.7%, Shield Bonus +13.3%, Skill Charge Rate +10.5%** |
+| ~~ม่วง (ถอดแล้ว)~~ | ~~Superior~~ | ~~281 / 140 / 4,216~~ | ~~Shield Bonus +6.7%, Block Rate +4.2%, Shielded Bonus +6.9%~~ |
 
 - 💡 Talent เข้ากับ Iggy มาก: Sand Shield 60% Max HP + โล่พายุทราย 100% DEF + **โล่ Protection จาก Badge** → Shield Bonus ได้ผลสามทาง
-- ❌ เกรดคละ → 📖 **ไม่ได้ Realm Bonus** (ต้องระดับเดียวกันครบ) และชิ้นม่วงให้สถานะแค่ ~54% ของชิ้นแดง
+- ✅ ชิ้นทองใหม่แทนม่วง: สถานะพื้นฐาน +36% และ talent โล่เกือบเท่าตัว (Shield 6.7→13.3%, Shielded 6.9→10.7%)
+- ❌ ยังเกรดคละ (Outstanding 1 + Excellent 2) → 📖 **ยังไม่ได้ Realm Bonus** (ต้องระดับเดียวกันครบ 3 ชิ้น); ฐานข้อมูลไม่มีตัวเลขว่า Realm Bonus ให้เท่าไร จึงบอกไม่ได้ว่า Excellent ×3 คุ้มกว่า Outstanding 1 + Excellent 2 หรือไม่
 
 ## 2. บิลด์ของคุณ vs บิลด์ Jotaro Castle 📖
 
@@ -64,7 +66,7 @@
 
 1. **หยุดลง Ability shard ที่ Iggy** (S9 → S11 ได้แค่ตัวเลข) ย้ายไป Caesar / Ermes / Bucciarati S1 ([account2-roster.md §4.1](account2-roster.md))
 2. **Scene ช่อง I: +12 → +16** — ช่อง II ทำแล้ว ✅ ได้ HP/DEF/Block เพิ่มให้เห็นแล้ว; ช่อง I คือชิ้นเดียวที่เหลือ แล้วค่อยไล่ทั้ง 4 ชิ้นไป +20 (📖 ต้อง Outstanding Lv.100 ตั้ง Favorite ด้วย Camrecorder)
-3. **Spirit Power: เปลี่ยนชิ้นม่วง Superior ก่อน** → เป้า Outstanding VI ×3 เพื่อ Realm Bonus; talent ที่ควรได้ = Shield Bonus / Shielded Bonus / DMG Reduction / Block Rate (💡 เลี่ยง talent โจมตีเพราะสกิล Iggy สเกลกับ DEF)
+3. **Spirit Power: ชิ้นม่วงเปลี่ยนแล้ว ✅ (24 พ.ย.)** → ต่อไปเปลี่ยนชิ้นทองทีละชิ้นเป็น Outstanding; เป้า Outstanding VI ×3 เพื่อ Realm Bonus; talent ที่ควรได้ = Shield Bonus / Shielded Bonus / DMG Reduction / Block Rate (💡 เลี่ยง talent โจมตีเพราะสกิล Iggy สเกลกับ DEF)
 4. **ระยะยาว: Iggy Badge → Mythic** เพื่อปลด *Covenant* — ผูกกับพันธมิตร **ATK สูงสุด**: คู่ได้ Basic Attack Strength +20%, Iggy รับดาเมจแทนคู่ 20%, ฮีล Iggy 20% ของดาเมจโจมตีปกติของคู่ 📖
    - 💡 ใน Jotaro Castle ตัวที่ผูกควรเป็น **Jotaro** (แครี่โจมตีปกติ) → ต้องให้ ATK ของ Jotaro สูงกว่าทุกคน (Iggy ATK 35.3K แล้ว) — เงื่อนไขเดียวกับที่ทีมนี้ต้องการอยู่แล้ว
    - 📖 โปรโมตถึง Mythic ได้เฉพาะ Badge ที่เริ่มจาก Legendary ★1 (Blueprint) ❓ เช็กว่า Iggy Badge ทั้ง 4 ชิ้นมาจาก Blueprint หรือไม่
