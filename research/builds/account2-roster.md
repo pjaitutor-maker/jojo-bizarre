@@ -1,7 +1,7 @@
 # แอคเคาท์ที่ 2 — รายชื่อตัวละคร 53/53 + แผนทีม/การลงทรัพยากร (22 พ.ย. 2026)
 
 > แหล่ง: ภาพหน้าจอรายชื่อตัวละคร 12 ภาพ (UID ลงท้าย …319759) อ่านเลเวล/Ability (S)/สีไอคอนดาว แล้วจับคู่กับ [build-guide.md §4–6](../build-guide.md), [star-priority.md](star-priority.md), [global-research-2026-11-22.md](../global-research-2026-11-22.md), [joseph-ssr.md](joseph-ssr.md)
-> บิลด์ Iggy รายตัว: [iggy-account2.md](iggy-account2.md)
+> บิลด์รายตัว: [iggy-account2.md](iggy-account2.md) · [giorno-account2.md](giorno-account2.md)
 > 📷 = อ่านจากภาพ · 📖 = จากฐานข้อมูล · 💡 = อนุมาน · ❓ = ต้องเช็กในเกม
 
 ## 0. วิธีอ่านไอคอนดาวบนการ์ด ❓
