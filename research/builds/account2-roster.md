@@ -119,3 +119,43 @@
 1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Diavolo, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. Gem ที่ Iggy ใส่อยู่ชื่ออะไร (ดู iggy-account2.md)
 3. ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
+
+## 6. จัดอันดับตัวละครในบัญชีนี้ (24 พ.ย. 2026)
+
+เกณฑ์: 📖 Tier/PvE tier ของ Hideout (โหวตชุมชน 20 พ.ย.) + บทบาทในทีมแนะนำ × 📷 สภาพจริงในบัญชี (Lv/ดาว/Ability) → "พร้อมใช้แค่ไหนตอนนี้" ไม่ใช่ศักยภาพสูงสุด
+⚠️ Joseph SSR ไม่มี tier ใน Hideout (ใช้รายงานผู้เล่นเกาหลี) · Kakyoin ไม่มีเกณฑ์ดาว/Ability ในฐานข้อมูล
+
+| อันดับ | ตัวละคร | Tier/PvE | สภาพในบัญชี | เหตุผล |
+|---|---|---|---|---|
+| **กลุ่ม 1 — แกนบัญชี พร้อมใช้ทุกโหมด** |||||
+| 1 | **Iggy** | S / A | ★6 S9 Lv100 บิลด์ครบ | แกน Arena "Jotaro Castle"; ลงทุนเต็มแล้ว |
+| 2 | **Giorno** | S / S | ★6 S8 Lv100 | กาวทุกทีม (ฮีล + Energy ทั้งทีม); อยู่ในทีมแนะนำทุกโหมด |
+| 3 | **Jotaro** | S / S | ★3 S1 Lv100 | ถึงเป้า F2P (Settled Debt + Time Stop); อยู่ในทีมชุมชนทุกทีม |
+| 4 | **Prosciutto** | S / A | S5 Lv100 | ดาว/Ability ไม่สำคัญ (Ray) → ใช้ได้เต็มตั้งแต่ตอนนี้ |
+| **กลุ่ม 2 — Tier S ที่ขาดชิ้นส่วนเดียว** |||||
+| 5 | **Caesar** | S / S | ★3 S0 Lv100 | ขาด S1 (Bubble Lenses) — แก้ได้ด้วย shard 60 |
+| 6 | **Koichi** | S / S | S1 Lv100 ดาว❓ | ใช้ได้ตั้งแต่ ★1; คุม + ปั่น Energy |
+| 7 | **F.F.** | S / S | ★1 S1 Lv100 | ขาด ★2 (Passive 1 = กลไกหลัก) — ตัวซ้ำ 1 ตัว |
+| 8 | **Bucciarati** | S / S | S0 Lv100 ดาว❓ | ขาด S1 (Zipper Space) |
+| 9 | **Ermes** | S / A | S0 Lv100 ดาว❓ | ขาด S1 (Harpoon — ซื้อจากร้านได้) |
+| 10 | **Kakyoin** | S / S | S0 Lv100 ดาว❓ | เกาหลี: อันดับบนใช้ "Kakyoin เต็ม" แต่ไม่มีเกณฑ์ขั้นต่ำในฐานข้อมูล |
+| **กลุ่ม 3 — Tier A / ตัวเฉพาะทางที่พร้อมแล้ว** |||||
+| 11 | **Lisa Lisa** | A / D | S5 Lv100 | แกน Arena (ส่ง Energy ให้ตัว ATK สูงสุด); PvE อ่อน |
+| 12 | **Joseph SSR** | — | S0 Lv100 ดาว❓ | เกาหลี: ★3 S0 ติดอันดับ 1–3; แพ้ Iggy/ดูด Energy |
+| 13 | **Diavolo** | A / B | S2 Lv100 ดาว❓ | S1 ผ่านแล้ว; ต้องการ ★3 ขั้นต่ำ |
+| 14 | **Tonio** | A / A | S4 Lv100 | ฮีล + ล้าง debuff ของทีม PvE |
+| 15 | **Pesci** | B / D | S11 Lv100 | ใช้เฉพาะช่องที่ 5 ของ Jotaro Castle (เปิดอัลติก่อน) |
+| 16 | **Avdol** | A / C | S1 Lv100 ดาว❓ | ต้อง ★5 ถึงคุ้ม (Ray) — อย่าลงเพิ่ม |
+| 17 | **Keicho** | B / D | S11 Lv100 | เคลียร์คลื่น; มูลค่าหลักคือ Keicho Badge |
+| 18 | **Cioccolata** | C / C | S1 Lv100 ดาว❓ | ★3 พอ; PvP ค่อยคิด ★5 |
+| **กลุ่ม 4 — Tier A ที่ยังเลเวลต่ำ (คุ้มที่จะอัปต่อ)** |||||
+| 19 | **Speedwagon** | A / A | Lv1 S3 | อยู่ในทีม World Boss 3 วัน/สัปดาห์ → **อัปก่อนใครในกลุ่มนี้** |
+| 20 | **Hol Horse** | A / A | Lv60 S6 | World Boss พุธ; DPS ทีมประหยัด |
+| 21 | **Kenzou** | A / A | Lv1 S10 | ตัว A แต่ค่าหลักอยู่ที่ Kenzou Badge ให้ Jotaro |
+| 22 | **Joseph SR** | A / A | Lv1 S7 | ดึง/สตัน เข้าชุด Caesar + Koichi |
+| **กลุ่ม 5 — B/C เก็บไว้เป็นตัวประกอบ** |||||
+| 23–26 | Rubber Soul (B/D) · Captain Dragon/Tennille (B/B) · Mista (B/C) · Narancia (C/D) | | Lv1 | ไม่อยู่ในทีมแนะนำใด |
+| **กลุ่ม 6 — Tier D ทั้งหมด (27 ตัว)** |||||
+| 27–53 | Santviento, Abbacchio, Ghiaccio, Stroheim, Secco, Westwood, Sports Maxx, Chaka, Luca, Blueford, Tarukus, Formaggio, Squalo, Gwess, Straizo, Zucchero, Akira, N'doul, Melone, Sale, Johngalli, Pet Shop, Shigekiyo, Anjuro, Will Zeppeli, Lang Rangler, Mariah | D | Lv1–6 | ยกเว้น: Santviento/Abbacchio ใช้ในทีมประหยัดได้ · Akira มีค่าเป็น Impulse Gem · ⚠️ Pet Shop เกาหลีบอกเป็นภัยใน Arena แม้ Hideout ให้ D |
+
+**อ่านอันดับยังไง**: กลุ่ม 1 ไม่ต้องแตะ · กลุ่ม 2 คือที่ที่ทรัพยากรก้อนถัดไปควรไป (ถูกและเปลี่ยนอันดับได้ทันที) · กลุ่ม 4 คือตัว A ที่แค่เลเวลก็พอ ไม่ต้องดาว
