@@ -40,8 +40,10 @@
 | ชิ้น | เกรด | ATK/DEF/HP | Talent | ประเมิน 💡 |
 |---|---|---|---|---|
 | A | Excellent **VI** | 382 / 191 / 5,736 | **Skill Charge +9.7%**, **Attack Speed +9.3%**, **Shield Bonus +10.2%** | ✅ ดีทั้ง 3 ช่อง — Attack Speed ทำให้ *Empower* (ติดตอนโจมตีปกติ) เกิดบ่อยขึ้น |
-| B | **Outstanding IV** (4 ช่อง) | 469 / 234 / 7,042 | Shield Bonus +11.2%, Block Rate +6.4%, **ช่องที่ 3 ล็อก "Unlocks at 5 slots"** | ⚠️ ยังไม่เต็ม — สถานะต่ำกว่า Outstanding VI (520/260/7,803) และขาด talent 1 ช่อง |
-| C | Excellent **VI** | 382 / 191 / 5,736 | **Block Strength +4.3%, Attack Speed +10.2%, Skill Charge +10.3%** (reshape แล้ว 24 พ.ย.; เดิม Accuracy 5% / Crit Rate 5.8%) | ✅ Attack Speed ช่วย *Empower*; Block Strength เป็นสายรับ ได้ผลน้อยกับซัพพอร์ตที่ยืนหลัง แต่ดีกว่า Accuracy/Crit |
+| B | **Outstanding IV** (4 ช่อง) | 469 / 234 / 7,042 | Shield Bonus +11.2%, **Shielded Bonus +14.3%** (reshape 24 พ.ย.; เดิม Block Rate 6.4%), **ช่องที่ 3 ล็อก "Unlocks at 5 slots"** | ⚠️ talent ดีขึ้นแล้ว แต่ยังไม่เต็ม — สถานะต่ำกว่า Outstanding VI (520/260/7,803) และขาด talent 1 ช่อง |
+| C | Excellent **VI** | 382 / 191 / 5,736 | **Effect Hit +9.7%, Attack Speed +10.2%, Skill Charge +10.3%** (reshape 2 รอบ 24 พ.ย.; เดิม Accuracy 5% / Crit Rate 5.8%) | ✅✅ ตรงกับ Rampage ทั้ง 3 ช่อง — Effect Hit เพิ่มโอกาส Incapacitate, Attack Speed ช่วย *Empower*, Skill Charge ช่วยฮีล+Energy |
+
+**รวม talent ที่สำคัญหลัง reshape (24 พ.ย.)**: Effect Hit **15.7%** (Spirit 9.7 + Scene III 6) · Skill Charge **20.0%** · Attack Speed **19.5%** · Shield Bonus 21.4% · Shielded Bonus 14.3%
 
 ## 2. สรุป: แกนถูกแล้ว จุดที่เสียเปล่าอยู่ที่ Spirit Power กับค่ารองบางช่อง
 
