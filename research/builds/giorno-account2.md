@@ -41,7 +41,7 @@
 |---|---|---|---|---|
 | A | Excellent **VI** | 382 / 191 / 5,736 | **Skill Charge +9.7%**, **Attack Speed +9.3%**, **Shield Bonus +10.2%** | ✅ ดีทั้ง 3 ช่อง — Attack Speed ทำให้ *Empower* (ติดตอนโจมตีปกติ) เกิดบ่อยขึ้น |
 | B | **Outstanding IV** (4 ช่อง) | 469 / 234 / 7,042 | Shield Bonus +11.2%, Block Rate +6.4%, **ช่องที่ 3 ล็อก "Unlocks at 5 slots"** | ⚠️ ยังไม่เต็ม — สถานะต่ำกว่า Outstanding VI (520/260/7,803) และขาด talent 1 ช่อง |
-| C | Excellent **VI** | 382 / 191 / 5,736 | **Accuracy +5%**, **Crit Rate +5.8%**, Skill Charge +10.3% | ❌ 2 ใน 3 เป็นสายโจมตี ไม่ช่วยฮีล/โล่ |
+| C | Excellent **VI** | 382 / 191 / 5,736 | **Block Strength +4.3%, Attack Speed +10.2%, Skill Charge +10.3%** (reshape แล้ว 24 พ.ย.; เดิม Accuracy 5% / Crit Rate 5.8%) | ✅ Attack Speed ช่วย *Empower*; Block Strength เป็นสายรับ ได้ผลน้อยกับซัพพอร์ตที่ยืนหลัง แต่ดีกว่า Accuracy/Crit |
 
 ## 2. สรุป: แกนถูกแล้ว จุดที่เสียเปล่าอยู่ที่ Spirit Power กับค่ารองบางช่อง
 
@@ -49,7 +49,7 @@
 
 ### สิ่งที่เพิ่มได้ เรียงตามความคุ้ม
 1. **Spirit Power ชิ้น B: ดันจาก 4 ช่องเป็น 6 ช่อง** — 📖 รวม Spirit Power ระดับเดียวกันเพื่อเพิ่มช่อง (ที่ 5 ช่องปลด talent ใหม่ ที่ 6 ช่องอัป talent) → ได้ talent ช่องที่ 3 + สถานะขึ้นใกล้ Outstanding VI และเติมช่องว่าง 2 ช่องบนบอร์ดพอดี
-2. **Spirit Power ชิ้น C: reshape talent** — 📖 ถึง 3 ช่องแล้ว reshape ด้วย shard ได้; เป้าแทน Accuracy/Crit Rate = **Skill Charge Rate / Shield Bonus / Attack Speed** 💡 (เลี่ยงสายโจมตี เว้นแต่ใช้ Ult *Consciousness Rampage* เป็นหลัก)
+2. ✅ **ทำแล้ว 24 พ.ย.** — **Spirit Power ชิ้น C: reshape talent** — 📖 ถึง 3 ช่องแล้ว reshape ด้วย shard ได้; เป้าแทน Accuracy/Crit Rate = **Skill Charge Rate / Shield Bonus / Attack Speed** 💡 (เลี่ยงสายโจมตี เว้นแต่ใช้ Ult *Consciousness Rampage* เป็นหลัก)
 3. **Badge: Empower 4/8 → 8/8** — เป็นสกิลเดียวของชุดที่ยังไม่ตัน; แรงสุดในชุด (Energy + โล่ + ล้าง debuff ซ้ำทุก 2 วิ) ❓ ฐานข้อมูลไม่ระบุวิธีเพิ่มระดับเกิน 4 (น่าจะผ่านการโปรโมต/ดาว Badge — เช็กในเกม)
 4. **Scene ช่อง I และ IV: +12 → +16** — ช่อง II/III ทำแล้ว
 5. **Scene ช่อง IV: หาชิ้นที่ค่าหลัก HP คู่** (แบบช่อง III) มาแทนชิ้น DEF + HP — ฮีลทั้งหมดสเกลกับ HP; ย้ายค่าอัปไปชิ้นใหม่ไม่เสีย 100% 📖
