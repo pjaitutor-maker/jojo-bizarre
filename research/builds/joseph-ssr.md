@@ -45,3 +45,8 @@
 - **★5 S6 Lv100** (ไม่มีกุญแจ ไอคอนดาวทอง) · ATK 52.6K · DEF 15.9K · HP 496.4K · ระดับสกิล Ult 3 / อื่น ๆ 2
 - เกินเป้าทุกแหล่ง → หยุดลงดาว/Ability; เหลือแค่จัดของสวมใส่ตาม "บิลด์ (zilas)" ด้านบน
 - ⚠️ ในทีม Joseph + Lisa Lisa: Lisa Lisa ส่ง Energy ให้ตัว ATK สูงสุด → Joseph (52.6K) ต้องสูงกว่าเพื่อนในทีม; Jotaro 61.3K · Diavolo ~61.1K · Caesar 55.8K · Koichi 54K สูงกว่า Joseph ทั้งหมด → อย่าใส่ตัวเหล่านี้ทีมเดียวกับ Joseph + Lisa Lisa (Prosciutto/Iggy/Ermes ❓ เช็ก ATK Prosciutto)
+- 📷 Gem (25 พ.ย.): **Ultimate Enhancement ×2** (ส้ม) + **Suppression ×2** (ม่วง) · แถบสกิล Badge ด้านล่าง: Suppression **2/4** · Ultimate Enhancement **4/4** · ไอคอนม่วงหนาม 4/4 · ไอคอนม่วงกากบาท 6/6 · ไอคอนฟ้า 4/? (❓ ยังไม่รู้ชื่อ — ต้องดูภาพ Badge)
+- 📷 **Ultimate Enhancement** (ไม่มีในฐานข้อมูล badges.md): Ultimate Strength +1.5% / 3% / 6% / **12%** ที่ 1–4/4
+- 📷 **Suppression**: สกิลทำดาเมจเพิ่มใส่ศัตรู HP >55% = 3% / **6%** / 12% / (24% 📖) ที่ 1–4/4
+- 💡 **ค่า Gem เพิ่มแบบทวีคูณ (×2 ทุกขั้น)** → 4/4 แรงกว่า 2/4 สี่เท่า · แบ่ง Gem 2+2 คุ้มน้อยกว่าลง 4 เม็ดสกิลเดียว **เว้นแต่ Badge ให้สกิลนั้นอยู่แล้ว**
+- ❓ ทดสอบ: ถอด Gem Ultimate Enhancement ออก 1 เม็ด — ถ้ายัง 4/4 แปลว่า Gem 2 เม็ดนั้นเสียเปล่า (Badge ให้ครบเอง) → ย้ายไป Suppression ให้ครบ 4/4 (24%) หรือ Hawk-Eye ×4 ตาม zilas
