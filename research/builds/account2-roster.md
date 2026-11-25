@@ -28,7 +28,7 @@
 | Assault | Leaky Eye Luca | R | 1 | S11 | รุ้ง |
 | Assault | Blueford | R | 1 | S11 | รุ้ง |
 | Assault | Tarukus | SR | 1 | S7 | รุ้ง❓ |
-| Agility | **Diavolo** | SSR | 100 | S2 | **ทอง** (📷 25 พ.ย.; รอบ 22 พ.ย. อ่านเป็นดำ ❓ ดาวขึ้นหรืออ่านผิด) |
+| Agility | **Diavolo** | SSR | 100 | S2 | ทอง — **★3/★4** (📷 25 พ.ย. หน้าตัวละคร: กุญแจ 1 อันที่สกิลช่อง 5; ATK ~61.1K · DEF ~16.6K · HP ~487.9K ภาพเบลอ) |
 | Agility | **Bruno Bucciarati** | SSR | 100 | S0 | ดำ |
 | Agility | Formaggio | SR | 1 | S3 | ทอง |
 | Agility | Squalo | R | 1 | S11 | รุ้ง |
@@ -106,6 +106,7 @@
 
 ### 4.2 หยุดลง
 - **Iggy** Ability (S9 → S11 ได้แค่ตัวเลข) และ **Prosciutto** Ability/ดาว (Ray: "dupes don't matter")
+- **Diavolo** (★3/4 S2 = เป้า Ray แล้ว; ★5 *Now and Forevermore* "ไม่ต้องโฟกัส")
 - **Avdol**: ต้อง ★5 ขึ้นไปถึงคุ้ม — ไม่แนะนำลงทุน · **Cioccolata**: Tier C, ★3 พอ
 
 ### 4.3 ใช้ตู้ selector (Standard Character 180/300 · Ability 150) 📖
@@ -116,7 +117,7 @@
 - **Kakyoin** S0 — Tier S, เกาหลีบอกอันดับบน "ใช้ Kakyoin เต็ม" แต่ฐานข้อมูล**ไม่มี**เกณฑ์ดาว/Ability ของ Kakyoin → ยังไม่แนะนำให้ทุ่มจนกว่าจะมีข้อมูล
 
 ## 5. ค้างตรวจ ❓
-1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Diavolo, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
+1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
 3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
    ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
@@ -143,7 +144,7 @@
 | **กลุ่ม 3 — Tier A / ตัวเฉพาะทางที่พร้อมแล้ว** |||||
 | 11 | **Lisa Lisa** | A / D | S5 Lv100 | แกน Arena (ส่ง Energy ให้ตัว ATK สูงสุด); PvE อ่อน |
 | 12 | **Joseph SSR** | — | S0 Lv100 ดาว❓ | เกาหลี: ★3 S0 ติดอันดับ 1–3; แพ้ Iggy/ดูด Energy |
-| 13 | **Diavolo** | A / B | S2 Lv100 ดาว❓ | S1 ผ่านแล้ว; ต้องการ ★3 ขั้นต่ำ |
+| 13 | **Diavolo** | A / B | ★3/4 S2 Lv100 | ✅ ถึงเป้า Ray (★3 + S1) แล้ว → **หยุดลงทรัพยากร**; ATK ~61.1K สูงกว่า Iggy (35.3K) |
 | 14 | **Tonio** | A / A | S4 Lv100 | ฮีล + ล้าง debuff ของทีม PvE |
 | 15 | **Pesci** | B / D | S11 Lv100 | ใช้เฉพาะช่องที่ 5 ของ Jotaro Castle (เปิดอัลติก่อน) |
 | 16 | **Avdol** | A / C | S1 Lv100 ดาว❓ | ต้อง ★5 ถึงคุ้ม (Ray) — อย่าลงเพิ่ม |
