@@ -51,7 +51,7 @@
 | Ranged | **Noriaki Kakyoin** | SSR | 100 | S0 | ดำ |
 | Ranged | Hol Horse | SR | 60 | S6 | ทอง |
 | Ranged | **Caesar A. Zeppeli** | SSR | 100 | S0 | ดำ (**★3** ยืนยันโดยผู้เล่น; 📷 25 พ.ย. กุญแจ 1 อันที่ช่อง 5 ตรงกัน · ATK 55.8K · DEF 15.1K · HP 441.5K · ระดับสกิล 1/1/1/1) |
-| Ranged | **F.F.** | SSR | 100 | S1 | ดำ (**★1** ยืนยันโดยผู้เล่น) |
+| Ranged | **F.F.** | SSR | 100 | S1 | ดำ — **★2** (📷 25 พ.ย.: กุญแจ 2 อันที่ช่อง 4–5, Passive 1 ปลดแล้ว; เดิมผู้เล่นบอก ★1 · ATK 50.2K · DEF 14.7K · HP 453.5K) |
 | Ranged | Guido Mista | SR | 1 | S3 | ทอง |
 | Ranged | Sale | R | 1 | S11 | รุ้ง |
 | Ranged | Johngalli A. | SR | 1 | S3 | ทอง |
@@ -79,7 +79,7 @@
 ## 2. โปรไฟล์แอคเคาท์ 💡
 - มี **ทุกตัวในเกม** และ SSR Tier S ครบ 10 ตัว (Prosciutto, Jotaro, Iggy, Ermes, Bucciarati, Kakyoin, Caesar, F.F., Koichi, Giorno)
 - ทรัพยากรหนักลงที่ **Iggy (★6 S9) + Giorno (★6 S8) + Lisa Lisa (S5) + Pesci (Lv100 S11)** = ชุด **"Jotaro Castle"** (ทีม Arena อันดับต้นของชุมชน Hideout 14 พ.ย.) ครบทั้ง 5 ที่ Lv.100 แล้ว
-- จุดอ่อน: **SSR ส่วนใหญ่ยัง S0–S1** → ตัวที่ต้องพึ่ง Ultimate ที่ 2 จาก S1 (Caesar, Ermes, Bucciarati) ยังไม่ปลด; ดาวที่ยืนยันแล้ว: Jotaro ★3, Caesar ★3, F.F. ★1 (ที่เหลือยังไม่ทราบ)
+- จุดอ่อน: **SSR ส่วนใหญ่ยัง S0–S1** → ตัวที่ต้องพึ่ง Ultimate ที่ 2 จาก S1 (Caesar, Ermes, Bucciarati) ยังไม่ปลด; ดาวที่ยืนยันแล้ว: Jotaro ★3, Caesar ★3, F.F. ★2 (25 พ.ย.), Diavolo ★3/4 (ที่เหลือยังไม่ทราบ)
 
 ## 3. ทีมแนะนำแยกโหมด (ทุกตัวมีและ Lv.100 แล้ว เว้นที่ระบุ) 📖
 
@@ -110,7 +110,7 @@
 | **Bucciarati** | S0 | → **S1** | ปลด *Zipper Space* — "ตัวที่ทำให้แรงใน PvP" |
 | **Jotaro** | ★3 S1 ✅ | = เป้า F2P ของ Ray แล้ว (*Settled Debt* + Time Stop); ระยะยาว **★5** (*You're Not Running Away*) | ★4 เป็นแค่สถานะ อย่าหยุดที่ ★4 |
 | **Giorno** | ★6 S8 ✅ | ไม่ต้องทำอะไรแล้ว (S9–S11 ได้แค่ตัวเลข) | ★2 *Life Energy Detection* ผ่านแล้ว |
-| **F.F.** | ★1 S1 | → **★2** (ตัวซ้ำ 1 ตัว / selector) — **อันดับ 2** | Passive 1 *F.F.* = กลไกหลัก (ลด ATK/DEF ศัตรู + เพิ่มของตัวเองต่อเนื่อง) ยังไม่ปลด → ตอนนี้ F.F. ทำงานไม่เต็ม |
+| **F.F.** | ★2 S1 ✅ (25 พ.ย.) | ถึงเป้าขั้นต่ำ Ray แล้ว; ระยะยาว ★3 (*Reproduce and Regenerate*) | Passive 1 *F.F.* (กลไกหลัก) ปลดแล้ว |
 | **Speedwagon** | Lv.1 | อัปเป็นทีม World Boss 3 วัน/สัปดาห์ (Tier A) | ไม่ต้องดาว |
 
 ### 4.2 หยุดลง
@@ -119,7 +119,7 @@
 - **Avdol**: ต้อง ★5 ขึ้นไปถึงคุ้ม — ไม่แนะนำลงทุน · **Cioccolata**: Tier C, ★3 พอ
 
 ### 4.3 ใช้ตู้ selector (Standard Character 180/300 · Ability 150) 📖
-ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว)**; สำหรับแอคเคาท์นี้ 💡 **F.F. ★2 ควรมาก่อน** เพราะเป็นดาวที่ปลดกลไกหลัก ส่วน Caesar ★3 ใช้งานได้แล้ว — ** > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
+ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว)**; สำหรับแอคเคาท์นี้ F.F. ★2 ✅ แล้ว (25 พ.ย.) → ตัวซ้ำถัดไป: Koichi (ดาว❓) หรือ F.F. ★3 — ** > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
 
 ### 4.4 ตัวลิมิเต็ด
 - **Joseph SSR** S0 — 📖 ผู้เล่นเกาหลีติดอันดับด้วย **★3 S0** → ถ้ามี shard จากอีเวนต์ *Battle of Fate* (ถึง **3 ธ.ค. 2026**) ดันถึง ★3 แล้วหยุด; ไม่ต้องลง Ability
@@ -146,7 +146,7 @@
 | **กลุ่ม 2 — Tier S ที่ขาดชิ้นส่วนเดียว** |||||
 | 5 | **Caesar** | S / S | ★3 S0 Lv100 | ขาด S1 (Bubble Lenses) — แก้ได้ด้วย shard 60 |
 | 6 | **Koichi** | S / S | S1 Lv100 ดาว❓ | ใช้ได้ตั้งแต่ ★1; คุม + ปั่น Energy |
-| 7 | **F.F.** | S / S | ★1 S1 Lv100 | ขาด ★2 (Passive 1 = กลไกหลัก) — ตัวซ้ำ 1 ตัว |
+| 7 | **F.F.** | S / S | ★2 S1 Lv100 | ✅ Passive 1 (กลไกหลัก) ปลดแล้ว 25 พ.ย.; ต่อไป ★3 |
 | 8 | **Bucciarati** | S / S | S0 Lv100 ดาว❓ | ขาด S1 (Zipper Space) |
 | 9 | **Ermes** | S / A | S0 Lv100 ดาว❓ | ขาด S1 (Harpoon — ซื้อจากร้านได้) |
 | 10 | **Kakyoin** | S / S | S0 Lv100 ดาว❓ | เกาหลี: อันดับบนใช้ "Kakyoin เต็ม" แต่ไม่มีเกณฑ์ขั้นต่ำในฐานข้อมูล |
