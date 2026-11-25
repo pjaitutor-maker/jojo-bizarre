@@ -15,20 +15,20 @@
 | Defense | **Ermes Costello** | SSR | 100 | S0 | ดำ |
 | Defense | Santviento | SR | 1 | S6 | ทอง |
 | Defense | Rubber Soul | R | 1 | S11 | รุ้ง |
-| Defense | Leone Abbacchio | SR | 1 | S6 | ทอง |
+| Defense | Leone Abbacchio | SR | 1 | S6 | รุ้ง (📷 25 พ.ย.; รอบ 22 พ.ย. อ่านเป็นทอง) |
 | Defense | Ghiaccio | SR | 1 | S5 | ทอง |
 | Defense | Rudol von Stroheim | SR | 1 | S3 | ทอง |
 | Assault | **Prosciutto** | SSR | 100 | S5 | ทอง |
 | Assault | **Jotaro Kujo** | SSR | 100 | S1 | ดำ (**★3** ยืนยันโดยผู้เล่น) |
 | Assault | **Lisa Lisa** | SR | 100 | S5 | ทอง |
-| Assault | Secco | SR | 20 | S8 | รุ้ง❓ |
+| Assault | Secco | SR | 20 | S8 | รุ้ง (📷 25 พ.ย.) |
 | Assault | Vivano Westwood | SR | 2 | S6 | ทอง |
 | Assault | Sports Maxx | SR | 2 | S3 | ทอง |
 | Assault | Chaka | SR | 1 | S3 | ทอง |
 | Assault | Leaky Eye Luca | R | 1 | S11 | รุ้ง |
 | Assault | Blueford | R | 1 | S11 | รุ้ง |
 | Assault | Tarukus | SR | 1 | S7 | รุ้ง❓ |
-| Agility | **Diavolo** | SSR | 100 | S2 | ดำ |
+| Agility | **Diavolo** | SSR | 100 | S2 | **ทอง** (📷 25 พ.ย.; รอบ 22 พ.ย. อ่านเป็นดำ ❓ ดาวขึ้นหรืออ่านผิด) |
 | Agility | **Bruno Bucciarati** | SSR | 100 | S0 | ดำ |
 | Agility | Formaggio | SR | 1 | S3 | ทอง |
 | Agility | Squalo | R | 1 | S11 | รุ้ง |
@@ -118,7 +118,8 @@
 ## 5. ค้างตรวจ ❓
 1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Diavolo, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
-3. ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
+3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
+   ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
 
 ## 6. จัดอันดับตัวละครในบัญชีนี้ (24 พ.ย. 2026)
 
