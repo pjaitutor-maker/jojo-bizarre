@@ -120,7 +120,7 @@
 1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
 3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
-   ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
+   ✅ 25 พ.ย.: Jotaro ATK **61.3K** > Iggy 35.3K (Diavolo ~61.1K ใกล้มาก) · ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
 
 ## 6. จัดอันดับตัวละครในบัญชีนี้ (24 พ.ย. 2026)
 

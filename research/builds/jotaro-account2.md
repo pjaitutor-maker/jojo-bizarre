@@ -57,4 +57,8 @@
 6. **ระยะยาว: Jotaro Badge → Mythic** เพื่อ *Judgment* (Blueprint จากร้าน Monthly Pass 200 token/ชิ้น 📖)
 7. **ดาว ★3 → ★5** ปลด *You're Not Running Away* (★4 เป็นแค่สถานะ อย่าหยุดที่ ★4)
 
-⚠️ เงื่อนไขทีม Jotaro Castle: **Jotaro ต้องมี ATK สูงสุดในทีม** (Iggy ATK 35.3K) ❓ เช็ก ATK ของ Jotaro ในหน้าสถานะ
+⚠️ เงื่อนไขทีม Jotaro Castle: **Jotaro ต้องมี ATK สูงสุดในทีม**
+- 📷 25 พ.ย. หน้าตัวละคร: **ATK 61.3K · DEF 17.4K · HP 518.6K · Power 96K** · กุญแจ 1 อันที่สกิลช่อง 5 (ตรงกับ ★3)
+- ✅ สูงกว่า Iggy (35.3K) เกือบเท่าตัว · ❓ Giorno ยังไม่เห็นค่า ATK (ของสวมใส่เน้น HP น่าจะต่ำกว่า)
+- ⚠️ **Diavolo ATK ~61.1K** (ภาพเบลอ) ห่างแค่ ~200 → ถ้าใส่ Diavolo ทีมเดียวกับ Lisa Lisa, Energy อาจไหลไป Diavolo · ศัตรูที่ใช้ Time Stop จะเล็งตัว ATK สูงสุดของเรา
+- ❓ Crit Rate รวม ต้องกดแว่นขยายในหน้าสถานะ
