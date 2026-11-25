@@ -21,7 +21,7 @@
 | สไตล์ | ตัวละคร | Rarity | Lv | Ability | ไอคอนดาว |
 |---|---|---|---|---|---|
 | Defense | **Iggy** | SSR | 100 | S9 | รุ้ง (★6) |
-| Defense | **Ermes Costello** | SSR | 100 | S0 | ดำ |
+| Defense | **Ermes Costello** | SSR | 100 | **S1** (25 พ.ย.) | ดำ — **★2** (📷 กุญแจ 2 อัน · ATK 26.2K · DEF 22.4K · HP 515K · Power 55.7K) |
 | Defense | Santviento | SR | 1 | S6 | ทอง |
 | Defense | Rubber Soul | R | 1 | S11 | รุ้ง |
 | Defense | Leone Abbacchio | SR | 1 | S6 | รุ้ง (📷 25 พ.ย.; รอบ 22 พ.ย. อ่านเป็นทอง) |
@@ -79,7 +79,7 @@
 ## 2. โปรไฟล์แอคเคาท์ 💡
 - มี **ทุกตัวในเกม** และ SSR Tier S ครบ 10 ตัว (Prosciutto, Jotaro, Iggy, Ermes, Bucciarati, Kakyoin, Caesar, F.F., Koichi, Giorno)
 - ทรัพยากรหนักลงที่ **Iggy (★6 S9) + Giorno (★6 S8) + Lisa Lisa (S5) + Pesci (Lv100 S11)** = ชุด **"Jotaro Castle"** (ทีม Arena อันดับต้นของชุมชน Hideout 14 พ.ย.) ครบทั้ง 5 ที่ Lv.100 แล้ว
-- จุดอ่อน: **SSR ส่วนใหญ่ยัง S0–S1** → ตัวที่ต้องพึ่ง Ultimate ที่ 2 จาก S1 (Caesar, Ermes, Bucciarati) ยังไม่ปลด; ดาวที่ยืนยันแล้ว: Jotaro ★3, Caesar ★3, F.F. ★2 (25 พ.ย.), Diavolo ★3/4 (ที่เหลือยังไม่ทราบ)
+- จุดอ่อน: **SSR ส่วนใหญ่ยัง S0–S1** → ตัวที่ต้องพึ่ง Ultimate ที่ 2 จาก S1 ที่ยังไม่ปลด: Caesar, Bucciarati (Ermes S1 ✅ 25 พ.ย.); ดาวที่ยืนยันแล้ว: Jotaro ★3, Caesar ★3, F.F. ★2 (25 พ.ย.), Diavolo ★3/4 (ที่เหลือยังไม่ทราบ)
 
 ## 3. ทีมแนะนำแยกโหมด (ทุกตัวมีและ Lv.100 แล้ว เว้นที่ระบุ) 📖
 
@@ -106,7 +106,7 @@
 | ตัว | ตอนนี้ | ทำอะไร | ทำไม |
 |---|---|---|---|
 | **Caesar** | ★3 S0 | → **S1** (Ability shard 60) — **อันดับ 1** | ดาวถึงขั้นใช้งานแล้ว แต่ยังไม่มี *Bubble Lenses* (Ultimate ที่ 2); ระยะยาว ★5 ปลด *The Zeppeli Spirit* |
-| **Ermes** | S0 | → **S1** (ซื้อจากร้านได้) | ปลด *Hypersonic Harpoon* — ตัวที่ทำให้ Ermes เป็น Tier S |
+| **Ermes** | ★2 S1 ✅ (25 พ.ย.) | ถึงเป้า Ray (★1 + S1) แล้ว; ระยะยาว ★3 (*This Is My Stand Ability*) → ★5 | *Hypersonic Harpoon* ปลดแล้ว |
 | **Bucciarati** | S0 | → **S1** | ปลด *Zipper Space* — "ตัวที่ทำให้แรงใน PvP" |
 | **Jotaro** | ★3 S1 ✅ | = เป้า F2P ของ Ray แล้ว (*Settled Debt* + Time Stop); ระยะยาว **★5** (*You're Not Running Away*) | ★4 เป็นแค่สถานะ อย่าหยุดที่ ★4 |
 | **Giorno** | ★6 S8 ✅ | ไม่ต้องทำอะไรแล้ว (S9–S11 ได้แค่ตัวเลข) | ★2 *Life Energy Detection* ผ่านแล้ว |
@@ -126,7 +126,7 @@
 - **Kakyoin** S0 — Tier S, เกาหลีบอกอันดับบน "ใช้ Kakyoin เต็ม" แต่ฐานข้อมูล**ไม่มี**เกณฑ์ดาว/Ability ของ Kakyoin → ยังไม่แนะนำให้ทุ่มจนกว่าจะมีข้อมูล
 
 ## 5. ค้างตรวจ ❓
-1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Ermes, Bucciarati, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
+1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Bucciarati, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
 3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
    ✅ 25 พ.ย.: Jotaro ATK **61.3K** > Iggy 35.3K (Diavolo ~61.1K ใกล้มาก) · ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
@@ -148,7 +148,7 @@
 | 6 | **Koichi** | S / S | S1 Lv100 ดาว❓ | ใช้ได้ตั้งแต่ ★1; คุม + ปั่น Energy |
 | 7 | **F.F.** | S / S | ★2 S1 Lv100 | ✅ Passive 1 (กลไกหลัก) ปลดแล้ว 25 พ.ย.; ต่อไป ★3 |
 | 8 | **Bucciarati** | S / S | S0 Lv100 ดาว❓ | ขาด S1 (Zipper Space) |
-| 9 | **Ermes** | S / A | S0 Lv100 ดาว❓ | ขาด S1 (Harpoon — ซื้อจากร้านได้) |
+| 9 | **Ermes** | S / A | ★2 S1 Lv100 | ✅ Harpoon ปลดแล้ว 25 พ.ย.; ต่อไป ★3 |
 | 10 | **Kakyoin** | S / S | S0 Lv100 ดาว❓ | เกาหลี: อันดับบนใช้ "Kakyoin เต็ม" แต่ไม่มีเกณฑ์ขั้นต่ำในฐานข้อมูล |
 | **กลุ่ม 3 — Tier A / ตัวเฉพาะทางที่พร้อมแล้ว** |||||
 | 11 | **Lisa Lisa** | A / D | S5 Lv100 | แกน Arena (ส่ง Energy ให้ตัว ATK สูงสุด); PvE อ่อน |
