@@ -57,9 +57,9 @@
 | Special | Captain Dragon | SR | 1 | S3 | รุ้ง❓ |
 | Support | **Giorno Giovanna** | SSR | 100 | S8 | รุ้ง (★6 ยืนยันโดยผู้เล่น 22 พ.ย.) |
 | Support | **Pesci** | R | 100 | S11 | รุ้ง |
-| Support | **Tonio Trendy** | SR | 100 | S4 | รุ้ง❓ |
+| Support | **Tonio Trendy** | SR | 100 | S4 | รุ้ง (📷 25 พ.ย.) |
 | Support | Will A. Zeppeli | SR | 2 | S7 | ทอง |
-| Support | Lang Rangler | SR | 6 | S6 | รุ้ง❓ |
+| Support | Lang Rangler | SR | 6 | S6 | รุ้ง (📷 25 พ.ย.) |
 | Support | Kenzou | SR | 1 | S10 | ทอง |
 | Support | Joseph Joestar (SR, Part 3) | SR | 1 | S7 | ทอง |
 | Support | Robert E. O. Speedwagon | SR | 1 | S3 | ทอง |
