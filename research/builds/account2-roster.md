@@ -56,7 +56,7 @@
 | Ranged | Sale | R | 1 | S11 | รุ้ง |
 | Ranged | Johngalli A. | SR | 1 | S3 | ทอง |
 | Special | **Joseph Joestar (SSR, Part 2)** | SSR | 100 | S0 | ดำ |
-| Special | **Koichi Hirose** | SSR | 100 | S1 | ดำ |
+| Special | **Koichi Hirose** | SSR | 100 | S1 | ดำ — **★2** (📷 25 พ.ย. กุญแจ 2 อัน · ATK 54K · DEF 16.1K · HP 477.4K · Power 72.6K) |
 | Special | **Mohammed Avdol** | SSR | 100 | S1 | ดำ |
 | Special | **Cioccolata** | SSR | 100 | S1 | ดำ |
 | Special | Pet Shop | SR | 1 | S5 | ทอง |
@@ -119,14 +119,14 @@
 - **Avdol**: ต้อง ★5 ขึ้นไปถึงคุ้ม — ไม่แนะนำลงทุน · **Cioccolata**: Tier C, ★3 พอ
 
 ### 4.3 ใช้ตู้ selector (Standard Character 180/300 · Ability 150) 📖
-ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว)**; สำหรับแอคเคาท์นี้ F.F. ★2 ✅ แล้ว (25 พ.ย.) → ตัวซ้ำถัดไป: Koichi (ดาว❓) หรือ F.F. ★3 — ** > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
+ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว)**; สำหรับแอคเคาท์นี้ F.F. ★2 ✅ แล้ว (25 พ.ย.) → ตัวซ้ำถัดไป: Koichi ★3 (*Reverb ACT 2*) หรือ F.F. ★3 — ** > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
 
 ### 4.4 ตัวลิมิเต็ด
 - **Joseph SSR** S0 — 📖 ผู้เล่นเกาหลีติดอันดับด้วย **★3 S0** → ถ้ามี shard จากอีเวนต์ *Battle of Fate* (ถึง **3 ธ.ค. 2026**) ดันถึง ★3 แล้วหยุด; ไม่ต้องลง Ability
 - **Kakyoin** S0 — Tier S, เกาหลีบอกอันดับบน "ใช้ Kakyoin เต็ม" แต่ฐานข้อมูล**ไม่มี**เกณฑ์ดาว/Ability ของ Kakyoin → ยังไม่แนะนำให้ทุ่มจนกว่าจะมีข้อมูล
 
 ## 5. ค้างตรวจ ❓
-1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Bucciarati, Kakyoin, Joseph SSR, Koichi, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
+1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Bucciarati, Kakyoin, Joseph SSR, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
 3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
    ✅ 25 พ.ย.: Jotaro ATK **61.3K** > Iggy 35.3K (Diavolo ~61.1K ใกล้มาก) · ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
@@ -145,7 +145,7 @@
 | 4 | **Prosciutto** | S / A | S5 Lv100 | ดาว/Ability ไม่สำคัญ (Ray) → ใช้ได้เต็มตั้งแต่ตอนนี้ |
 | **กลุ่ม 2 — Tier S ที่ขาดชิ้นส่วนเดียว** |||||
 | 5 | **Caesar** | S / S | ★3 S0 Lv100 | ขาด S1 (Bubble Lenses) — แก้ได้ด้วย shard 60 |
-| 6 | **Koichi** | S / S | S1 Lv100 ดาว❓ | ใช้ได้ตั้งแต่ ★1; คุม + ปั่น Energy |
+| 6 | **Koichi** | S / S | ★2 S1 Lv100 | ✅ ★2 *I Won't Forgive You!* ปลดแล้ว; ต่อไป ★3 *Reverb ACT 2* |
 | 7 | **F.F.** | S / S | ★2 S1 Lv100 | ✅ Passive 1 (กลไกหลัก) ปลดแล้ว 25 พ.ย.; ต่อไป ★3 |
 | 8 | **Bucciarati** | S / S | S0 Lv100 ดาว❓ | ขาด S1 (Zipper Space) |
 | 9 | **Ermes** | S / A | ★2 S1 Lv100 | ✅ Harpoon ปลดแล้ว 25 พ.ย.; ต่อไป ★3 |
