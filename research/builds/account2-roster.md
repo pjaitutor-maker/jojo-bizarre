@@ -14,7 +14,9 @@
 | Jotaro | S1 | **2** / 1 / 1 / 1 |
 | Diavolo | S2 | **2** / **2** / 1 / 1 |
 
-→ แต่ละขั้น S น่าจะเพิ่มระดับสกิล 1 ช่อง (S1 = Ult, S2 = Skill) นอกจากปลด Ultimate ที่ 2 ❓ ยืนยันใน Ability Details
+| Joseph SSR | S6 | **3** / **2** / **2** / **2** / **2** (รวม +6) |
+
+→ แต่ละขั้น S เพิ่มระดับสกิล 1 ช่อง (S1 = Ult, S2 = Skill, …) — Joseph S6 รวม +6 พอดี ✅ ยืนยันรูปแบบ
 
 ## 1. รายชื่อทั้งหมด 📷 (เรียงตามแท็บสไตล์ในเกม)
 
@@ -55,7 +57,7 @@
 | Ranged | Guido Mista | SR | 1 | S3 | ทอง |
 | Ranged | Sale | R | 1 | S11 | รุ้ง |
 | Ranged | Johngalli A. | SR | 1 | S3 | ทอง |
-| Special | **Joseph Joestar (SSR, Part 2)** | SSR | 100 | S0 | ดำ |
+| Special | **Joseph Joestar (SSR, Part 2)** | SSR | 100 | **S6** (📷 25 พ.ย.; รอบ 22 พ.ย. บันทึก S0) | ทอง — **★5** (ไม่มีกุญแจเลย, ไอคอนไม่ใช่รุ้ง) · ATK 52.6K · DEF 15.9K · HP 496.4K · ระดับสกิล 3/2/2/2/2 |
 | Special | **Koichi Hirose** | SSR | 100 | S1 | ดำ — **★2** (📷 25 พ.ย. กุญแจ 2 อัน · ATK 54K · DEF 16.1K · HP 477.4K · Power 72.6K) |
 | Special | **Mohammed Avdol** | SSR | 100 | S1 | ดำ |
 | Special | **Cioccolata** | SSR | 100 | S1 | ดำ |
@@ -122,11 +124,11 @@
 ลำดับ jojogs: **ตัวซ้ำแรกของ Caesar / Koichi (Giorno ★2 ผ่านแล้ว)**; สำหรับแอคเคาท์นี้ F.F. ★2 ✅ แล้ว (25 พ.ย.) → ตัวซ้ำถัดไป: Koichi ★3 (*Reverb ACT 2*) หรือ F.F. ★3 — ** > ตามทีมที่ขาด** — 10 ตัวในตู้: Caesar, Avdol, Koichi, Giorno, Bucciarati, Prosciutto, Diavolo, Cioccolata, F.F., Ermes
 
 ### 4.4 ตัวลิมิเต็ด
-- **Joseph SSR** S0 — 📖 ผู้เล่นเกาหลีติดอันดับด้วย **★3 S0** → ถ้ามี shard จากอีเวนต์ *Battle of Fate* (ถึง **3 ธ.ค. 2026**) ดันถึง ★3 แล้วหยุด; ไม่ต้องลง Ability
+- **Joseph SSR** ★5 S6 ✅ (📷 25 พ.ย.) — เกินเป้าทุกแหล่งแล้ว (เกาหลี ★3 S0 · zilas ★5 S1) → **หยุดลง** shard ที่เหลือจาก *Battle of Fate* ไม่ต้องดันต่อ
 - **Kakyoin** S0 — Tier S, เกาหลีบอกอันดับบน "ใช้ Kakyoin เต็ม" แต่ฐานข้อมูล**ไม่มี**เกณฑ์ดาว/Ability ของ Kakyoin → ยังไม่แนะนำให้ทุ่มจนกว่าจะมีข้อมูล
 
 ## 5. ค้างตรวจ ❓
-1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Bucciarati, Kakyoin, Joseph SSR, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
+1. ~~นับกุญแจ Jotaro/Caesar/F.F.~~ ยืนยันแล้ว (★3/★3/★1); ที่ยังไม่ทราบ: Bucciarati, Kakyoin, Prosciutto เพื่อยืนยันดาว (ตัดสินข้อ 4.1 ได้ครึ่งหนึ่ง)
 2. ~~Gem ที่ Iggy ใส่~~ ยืนยันแล้ว 24 พ.ย.: **Revival ×4** และ Badge คือ **Iggy Badge** (ไม่ใช่ Santana) — ดู iggy-account2.md
 3. 💡 ภาพ 25 พ.ย. แท็บ "ทั้งหมด" ขึ้น 5 ตัวแรกเป็น Diavolo · Jotaro · Giorno · Prosciutto · Iggy — ถ้าเรียงตามทีมใน Preset Plan 1 นี่อาจเป็นทีมปัจจุบัน (ยังไม่ยืนยัน) · แท็บ Ranged ขึ้น Keicho (SR) ก่อน Kakyoin/Caesar → การเรียงไม่ได้ใช้ Rarity
    ✅ 25 พ.ย.: Jotaro ATK **61.3K** > Iggy 35.3K (Diavolo ~61.1K ใกล้มาก) · ทีม Arena ปัจจุบันใช้ชุดไหน และ ATK ของ Jotaro สูงสุดในทีมจริงไหม (Iggy ATK 35.3K แล้ว — ถ้า Jotaro ต่ำกว่า Energy จาก Giorno/Lisa Lisa จะไหลผิดตัว)
@@ -152,7 +154,7 @@
 | 10 | **Kakyoin** | S / S | S0 Lv100 ดาว❓ | เกาหลี: อันดับบนใช้ "Kakyoin เต็ม" แต่ไม่มีเกณฑ์ขั้นต่ำในฐานข้อมูล |
 | **กลุ่ม 3 — Tier A / ตัวเฉพาะทางที่พร้อมแล้ว** |||||
 | 11 | **Lisa Lisa** | A / D | S5 Lv100 | แกน Arena (ส่ง Energy ให้ตัว ATK สูงสุด); PvE อ่อน |
-| 12 | **Joseph SSR** | — | S0 Lv100 ดาว❓ | เกาหลี: ★3 S0 ติดอันดับ 1–3; แพ้ Iggy/ดูด Energy |
+| 12 | **Joseph SSR** | — | ★5 S6 Lv100 | เกินทั้งเป้าเกาหลี (★3 S0) และ zilas (★5 S1) แล้ว → **หยุดลง**; แพ้ Iggy/ดูด Energy |
 | 13 | **Diavolo** | A / B | ★3/4 S2 Lv100 | ✅ ถึงเป้า Ray (★3 + S1) แล้ว → **หยุดลงทรัพยากร**; ATK ~61.1K สูงกว่า Iggy (35.3K) |
 | 14 | **Tonio** | A / A | S4 Lv100 | ฮีล + ล้าง debuff ของทีม PvE |
 | 15 | **Pesci** | B / D | S11 Lv100 | ใช้เฉพาะช่องที่ 5 ของ Jotaro Castle (เปิดอัลติก่อน) |

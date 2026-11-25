@@ -40,3 +40,8 @@
 - 📖 ผู้เล่นเกาหลี DCinside `jojogosp`: "ใช้ได้ตั้งแต่ **★3 ไม่ต้องอัป Ability**, ผมอันดับ 2 ด้วย Joseph ★3" (no.1873, 11 พ.ย.) · Joseph ★3/S0 ≈ Bucciarati ★5/S9 ดาเมจเป้าเดียว (no.1874) · "อย่ารีบดัน — Joseph ★5 เต็มตกไปอันดับ 3 ตามหลัง ★3 ของผม" (no.1881, 13 พ.ย.)
 - ⚠️ **ขัดกับ zilas (ขั้นต่ำ ★5 + S1)** → หลักฐานผลอันดับจริงสนับสนุนเป้า **★3**
 - 📖 goldenspiritguides (12 พ.ย.): บิลด์ยัง "unverified"; tier list ที่ให้ "Joseph" ทั้งหมดเป็นตัว SR (Part 3) — ยังไม่มี tier ของ SSR
+
+## แอคเคาท์ที่ 2 (📷 25 พ.ย. 2026)
+- **★5 S6 Lv100** (ไม่มีกุญแจ ไอคอนดาวทอง) · ATK 52.6K · DEF 15.9K · HP 496.4K · ระดับสกิล Ult 3 / อื่น ๆ 2
+- เกินเป้าทุกแหล่ง → หยุดลงดาว/Ability; เหลือแค่จัดของสวมใส่ตาม "บิลด์ (zilas)" ด้านบน
+- ⚠️ ในทีม Joseph + Lisa Lisa: Lisa Lisa ส่ง Energy ให้ตัว ATK สูงสุด → Joseph (52.6K) ต้องสูงกว่าเพื่อนในทีม; Jotaro 61.3K · Diavolo ~61.1K · Caesar 55.8K · Koichi 54K สูงกว่า Joseph ทั้งหมด → อย่าใส่ตัวเหล่านี้ทีมเดียวกับ Joseph + Lisa Lisa (Prosciutto/Iggy/Ermes ❓ เช็ก ATK Prosciutto)
